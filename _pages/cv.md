@@ -58,7 +58,7 @@ Service and leadership
 * Student Volunteer, International Conference on Software Architecture (ICSA) 2019, Hamburg, Germany
 * Web Chair, I-Cities, Italian Conference on ICT for Smart Cities And Communities (I-Cities) 2018, L'Aquila, Italy
 * Contest Manager, ACM International Collegiate Programming Contest (ICPC) 2016, Amritapuri, India
-* Student Volunteer, Working Conference on Software Architecture (ICSA) 2016, Venice, Italy
+* Student Volunteer, Working Conference on Software Architecture (WICSA) 2016, Venice, Italy
 * Contest Manager, ACM International Collegiate Programming Contest (ICPC) 2014, Amritapuri, India
 * Contest Manager, Infosys Asirations 2020, 2014, Amritapuri, India
 * Student Volunteer, ACM International Collegiate Programming Contest (ICPC) 2013, Amritapuri, India
