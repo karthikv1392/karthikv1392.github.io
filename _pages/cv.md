@@ -13,7 +13,7 @@ Education
 ======
 * B.Tech Computer Science and Engineering, Amrita University, India, 2010-2014 (CGPA : 8.76/10)
 * M.Tech Computer Science and Engineering, Amrita University, India, 2014-2016 (CGPA : 9.5/10)
-* MSc. Computer Science (Software Architecture for Self-Adaptive Systems), University of L'Aquila, Italy, 2014-2016 (110/110 Cum Laude)
+* MSc. Computer Science (Software Architecture for Self-Adaptive Systems), University of L'Aquila, Italy, 2014-2016 (110 Cum Laude)
 * Ph.D Computer Science, Gran Sasso Science Insitute (GSSI), Italy, 2017-Present
 
 Work experience
