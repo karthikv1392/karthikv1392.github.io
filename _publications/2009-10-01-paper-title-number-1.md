@@ -8,7 +8,7 @@ venue: 'International Conference on Software Arhcitecture (ICSA) 2019, Hamburg, 
 paperurl: 'http://karthikv1392.github.io/files/icsa2019.pdf'
 citation: 'Muccini, Henry, and Karthik Vaidhyanathan. "A Machine Learning-Driven Approach for Proactive Decision Making in Adaptive Architectures." In 2019 IEEE International Conference on Software Architecture Companion (ICSA-C), pp. 242-245. IEEE, 2019.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](http://karthikv1392.github.io/files/paper1.pdf)
 
