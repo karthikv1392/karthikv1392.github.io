@@ -8,7 +8,7 @@ venue: 'European Conference on Software Arhchitecture (ECSA) 2019, Paris, France
 paperurl: 'http://karthik1392.github.io/files/ecsa2019.pdf'
 citation: 'Henry Muccini and Karthik Vaidhyanathan. 2019. ArchLearner: leveraging machine-learning techniques for proactive architectural adaptation. In Proceedings of the 13th European Conference on Software Architecture - Volume 2 (ECSA '19), Laurence Duchien, Catia Trubiani, Riccardo Scandariato, Raffaela Mirandola, Elena Maria Navarro Martinez, Danny Weyns, Anne Koziolek, Patrizia Scandurra, and Clément Quinton (Eds.), Vol. 2. ACM, New York, NY, USA, 38-41. DOI: https://doi.org/10.1145/3344948.3344962
 '
-
+---
 [Download paper here](http://karthik1392.githuio/files/ecsa2019.pdf)
 
 Recommended citation: Henry Muccini and Karthik Vaidhyanathan. 2019. ArchLearner: leveraging machine-learning techniques for proactive architectural adaptation. In Proceedings of the 13th European Conference on Software Architecture - Volume 2 (ECSA '19), Laurence Duchien, Catia Trubiani, Riccardo Scandariato, Raffaela Mirandola, Elena Maria Navarro Martinez, Danny Weyns, Anne Koziolek, Patrizia Scandurra, and Clément Quinton (Eds.), Vol. 2. ACM, New York, NY, USA, 38-41. DOI: https://doi.org/10.1145/3344948.3344962
