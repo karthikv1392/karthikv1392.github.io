@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>205, Blocco 0</p>
+    <p>208, Blocco 0</p>
     <p>Via Vetoio, Coppito</p>
     <p>L'Aquila, Italy 67100</p>
 
