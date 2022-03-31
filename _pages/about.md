@@ -2,23 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Postdoctoral Researcher</a>. University of L'Aquila, Italy
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>205, Blocco 0</p>
+    <p>Via Vetoio, Coppito</p>
+    <p>L'Aquila, Italy 67100</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Karthik Vaidhyanathan is a Postdoctoral Researcher at the Department of Computer Science, [University of L’Aquila, Italy](https://www.univaq.it/). He obtained his Ph.D. from [Gran Sasso Science Institute, Italy](https://gssi.it).  His main research interests lie in the intersection of software architecture and machine learning with a specific focus on microservices and IoT domains. His research focuses on how machine learning techniques can be leveraged to better architect self-adaptive systems and further how to better define architecting practices for developing Machine Learning-enabled software systems.  As a part of his research activities, he serves as a reviewer/organizing committee member in various workshops, conferences, and journals.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Karthik also poses more than 5 years of industrial experience in building and deploying ML products/services and he is working as a part-time consultant ML architect at [Founding Minds, India](https://www.foundingminds.com/).
