@@ -1,51 +1,62 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: VASARI
+description: Italian Smart Art Experience
+img: assets/img/vasari.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+[VASARI is an Italian national funded project](https://www.vasariartexperience.it/) that aims to provide a digital and immersive experience to visitors of cultural heritage sites in Italy. The project is co-financed by MIUR, with the support of the European Union, and was activated thanks to the PON R&I 2014-2020 and FSC Funds.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+To know more about the project, [click here](https://www.vasariartexperience.it/progetto/).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## My responsibilities
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The project provided a great learning platform to apply and improve architectural knowledge in a concrete system. The project had a total of 14 partners with 8 industrial partners and 6 Italian universities. I started working in the project since 2019 and by 2020, this project became my major focus. Some of my responsibilities include:
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+    1. Coordinating with the partners to finalize the technical implementation architecture of the VASARI platform.
+
+    2. Documenting the design decisions and creating different views such as component diagrams, sequence diagrams, data flow diagrams, etc. for the part of the project handled by Univaq.
+
+    3. Configuring and deploying IoT devices such as AI-enabled cameras, IR counters and smoke detectors. Further, integrating them with Thingsboard IoT platform.
+
+    4. Developing backend services as a part of the prototype to demonstrate specific functionalities of the VASARI system.
+
+    4. Developing documentation for different deliverables under the leadership of Univaq.
+
+
+
+  [//]: <> <div class="row">
+    [//]: <>   <div class="col-sm mt-3 mt-md-0">
+      [//]: <>     {% include figure.html path="assets/img/1.jpg"   
+      [//]: <> title="example image" class="img-fluid rounded z-depth-1" %}
+      [//]: <> </div>
+      [//]: <> <div class="col-sm mt-3 mt-md-0">
+        [//]: <>   {% include figure.html path="assets/img/3.jpg"  
+         [//]: <> title="example image" class="img-fluid rounded z-depth-1" %}
+      [//]: <> </div>
+      [//]: <> <div class="col-sm mt-3 mt-md-0">
+        [//]: <>   {% include figure.html path="assets/img/5.jpg"   [//]: <> title="example image" class="img-fluid rounded z-depth-1" %}
+    [//]: <>   </div>
+  [//]: <> </div>
+  [//]: <> <div class="caption">
+  [//]: <>     Caption photos easily. On the left, a road goes through a   
+  [//]: <> tunnel. Middle, leaves artistically fall in a hipster photoshoot.   
+  [//]: <> Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+  [//]: <> </div>
+  [//]: <>  <div class="row">
+      [//]: <> <div class="col-sm mt-3 mt-md-0">
+        [//]: <>   {% include figure.html path="assets/img/5.jpg"   
+        [//]: <> title="example image" class="img-fluid rounded z-depth-1" %}
+      [//]: <> </div>
+  [//]: <> </div>
+  [//]: <> <div class="caption">
+    [//]: <>   This image can also have a caption. It's like magic.
+  [//]: <>
+  [//]: <> Say you wanted to write a little bit about your project before
+     [//]: <> posted the rest of the images.
+  [//]: <> You describe how you toiled, sweated, *bled* for your project, and [//]: <>  you reveal it's glory in the next row of images.
 
 
 <div class="row justify-content-sm-center">
