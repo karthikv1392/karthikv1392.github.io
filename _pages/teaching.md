@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description:
 nav: true
 ---
@@ -17,12 +17,12 @@ Software Architecture Course (6 ECTS) and Architecting Intelligent Systems Cours
 
 __2021__
 
-    1. Delivered technical lectures on the topics of _Publish subscribe architectural style with Apache Kafka, Microservices with demo, Event-driven architecture with demo, self-adaptation, Cloud computing with Google Cloud (hands on sessions)_ as part of the _Software Architecture course_ (6 ECTS) for Master degree students.
-    2. Designed course project for Software architecture course based on the Italian national funded project, [VASARI](https:/www.vasariartexperience.it)
-    3. Evaluated the projects of 6 groups (each group consisting of 3-4 students) by providing two rounds of reviews.
-    4. Participated in the examination committee of the _software architecture course_ and assisted Prof. Henry Muccini in conducting oral examination and further in the final evaluation process.
-    5. Provided technical lectures on the topics of _serverless computing, machine learning and self-adaptation and microservices_ as a part of the _Architecting Intelligent Systems Course_ (6 ECTS) for Master degree students.
-    6. Designed the projects for the _Architecting Intelligent Systems Course_ (6 ECTS) and further guided students on a regular basis towards the completion of the projects.
+  1. Delivered technical lectures on the topics of _Publish subscribe architectural style with Apache Kafka, Microservices with demo, Event-driven architecture with demo, self-adaptation, Cloud computing with Google Cloud (hands on sessions)_ as part of the _Software Architecture course_ (6 ECTS) for Master degree students.
+  2. Designed course project for Software architecture course based on the Italian national funded project, [VASARI](https:/www.vasariartexperience.it)
+  3. Evaluated the projects of 6 groups (each group consisting of 3-4 students) by providing two rounds of reviews.
+  4. Participated in the examination committee of the _software architecture course_ and assisted Prof. Henry Muccini in conducting oral examination and further in the final evaluation process.
+  5. Provided technical lectures on the topics of _serverless computing, machine learning and self-adaptation and microservices_ as a part of the _Architecting Intelligent Systems Course_ (6 ECTS) for Master degree students.
+  6. Designed the projects for the _Architecting Intelligent Systems Course_ (6 ECTS) and further guided students on a regular basis towards the completion of the projects.
 
 
 __2018-2020__ _Ph.D Student, GSSI, L'Aquila, Italy_
