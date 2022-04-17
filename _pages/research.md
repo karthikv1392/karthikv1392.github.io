@@ -19,4 +19,16 @@ As remarked by one of the pioneers of the modern AI, Andrew Ng, AI is considered
 
 On the one hand, we have software systems that generate a tremendous amount of data but face different architectural challenges. Some of those challenges can be solved using AI  and on the other hand, we have AI systems that thrive on data but require better architecting practices. This combination of challenges in the field of Software architecture and AI has resulted in two broad research areas: i) Software architecture for AI systems. It primarily focuses on developing architectural techniques for better developing AI systems;  ii) AI for Software architectures, which focuses on developing AI techniques to better architect software systems. My research focusses on addressing this two broad research challenges. This is accomplished by: i) by identifying the challenges and solutions for coming up with best practices for achitecting AI in particular ML-enabled systems and; ii) By developing ML-based approaches for architecting self-adaptive software systems. The research is further applied to domains such as IoT, Microservices, Robotic systems, etc.
 
+You can find my detailed list of publications [here](https://karthikvaidhyanathan.com/publications/)
+
 ## Collaborators
+
+A big thanks to all my past and present collaborators who all have helped me to improve my research and personal skills.
+
+  1. Prof. Henry Muccini, Full Professor, University of L’Aquila, Italy (Supervisor)
+  2. Dr. Javier Camara, Associate Professor, University of Malaga, Spain
+  3. Prof. Mauro Caporuscio, Full Professor, Linneaus University, Sweden
+  4. Dr. Martina De Sanctis, Assistant Professor, Gran Sasso Science Institute, Italy
+  5. Dr. Mahyar Mogahaddam, Assistant Professor, University of Southern Denmark (SDU), Denmark
+  6. Dr. Guilia De Masi, Principal Scientist, Technology Innovation Institute (TII), Abu Dhabi, UAE
+  7. Dr. Bradley Schmerl, Principal Systems Scientist, Carnengie Mellon University (CMU), USA
