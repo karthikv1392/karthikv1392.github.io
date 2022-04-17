@@ -83,7 +83,8 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Musings of a Software Researcher  # your blog must have a name for it to show up in the nav bar
+blog_name: # your blog must have a name for it to show up in the nav bar
+#blog_name: Musings of a Software Researcher  # your blog must have a name for it to show up in the nav bar
 blog_description: a collection of my articles
 permalink: /blog/:year/:title/
 
