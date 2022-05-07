@@ -27,7 +27,7 @@ __2021__
 
 __2018-2020__ _Ph.D Student, GSSI, L'Aquila, Italy_
 
-Although not a mandatory requirement in GSSI, I was involved with some teaching activities at the University of L'Aquila, Italy.
+Although not a mandatory requirement in GSSI, I was involved with some teaching activities at the University of L'Aquila, Italy in the software architecture courses provided by my supervisor Prof. Henry Muccini.
 
 __2020__
   1. Delivered technical lectures on the topics of _Views and viewpoints, Publish subscribe architectural style with Apache Kafka and Event-driven architecture with demo, Cloud computing with Google Cloud (hands on sessions)_ as part of the _Software Architecture course_ (6 ECTS) for Master degree students.
