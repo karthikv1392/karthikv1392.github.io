@@ -13,7 +13,7 @@ Over the years, I have realized that knowing and understanding computer science,
 __2021-Present__ _Postdoc and Cultore Della Materia, University of L'Aquila, Italy_
 
 Once I joined as a Postdoctoral Researcher at the University of L'Aquila, based on my interest in teaching and based on the feedback of my previous teaching activities, I was appointed as the [Cultore Della Materia (Subject Matter Expert)](https://it.wikipedia.org/wiki/Cultore_della_materia) for two courses -
-Software Architecture Course (6 ECTS) and Architecting Intelligent Systems Course (6 ECTS).
+Software Architecture Course (6 ECTS) and Architecting Intelligent Systems Course (6 ECTS). Both these courses are provided by Prof. Henry Muccini.
 
 __2021__
 
