@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Postdoctoral Researcher</a>. University of L'Aquila, Italy
+subtitle: <a href='#'>Assistant Professor</a>. IIIT Hyderabad, India
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>208, Blocco 0</p>
-    <p>Via Vetoio, Coppito</p>
-    <p>L'Aquila, Italy 67100</p>
+    <p>23, Himalaya Block-D</p>
+    <p>5th Floor, Software Engineering Research Center</p>
+    <p>IIIT Hyderabad, Gachibowli, India 500032</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
