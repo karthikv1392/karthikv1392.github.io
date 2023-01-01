@@ -10,7 +10,15 @@ _"Tell me and I forget, teach me and I may remember, involve me and I learn"_ - 
 
 Over the years, I have realized that knowing and understanding computer science, particularly software engineering, is more experiential. Students need ways to relate to a concept by applying them in practice. After all, software engineering is about applying the principles of computer science to solve real-life problems. I have been involved in didactic activities since my masters degree at Amrita University, India. Here I provide an overview on my different teaching activities.
 
-__2021-Present__ _Postdoc and Cultore Della Materia, University of L'Aquila, Italy_
+__2022-Present__ _Assistant Professor, IIIT Hyderabad, India_
+
+The real academic journeys started here. After I joined IIIT Hyderabad, in the first semester I was co-teaching two courses.
+
+1. Monsoon 2022 - Co-taught Operating Systems and Topics in Software engineering
+2. Spring 2023 - [CS6.401 Software Engineering](#)
+
+
+__2021-2022__ _Postdoc and Cultore Della Materia, University of L'Aquila, Italy_
 
 Once I joined as a Postdoctoral Researcher at the University of L'Aquila, based on my interest in teaching and based on the feedback of my previous teaching activities, I was appointed as the [Cultore Della Materia (Subject Matter Expert)](https://it.wikipedia.org/wiki/Cultore_della_materia) for two courses -
 Software Architecture Course (6 ECTS) and Architecting Intelligent Systems Course (6 ECTS). Both these courses are provided by Prof. Henry Muccini.

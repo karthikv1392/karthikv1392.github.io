@@ -72,7 +72,7 @@ dblp_url: https://dblp.org/pid/241/0360.html
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  The best way to contact me is via my email: karthikv1392@gmail.com
+  The best way to contact me is via my email: karthik.vaidhyanathan@iiit.ac.in
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -109,7 +109,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-
   research:
     output: true
     permalink: /research/:path/

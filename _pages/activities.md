@@ -11,10 +11,11 @@ I have been involved as a co-chair/organizing committee member/program committee
 
 __2022__
 
-  1. Co-chair, [2nd International Workshop on Software Architecture and Machine Learning](https://saml.disim.univaq.it/saml2022), co-located with the [European Conference on Software Architecture (ECSA) 2022)](https://conf.researchr.org/home/ecsa-2022),Prague, Czech Republic  
-  2. Reviewer, IEEE Transactions on Services Computing (TSC), IEEE Transactions Journal, IF: 8.21, Quartile Rank: Q1, https://www.computer.org/csdl/journal/sc
-  3. PC Member, [1st International Conference on AI Engineering-Software Engineering for AI (CAIN) 2022](https://conf.researchr.org/home/cain-2022), Co-located with the [44th International Conference on Software Engineering (ICSE) 2022](https://conf.researchr.org/home/icse-2022), Virtual, Pittsburgh, USA
-  4. PC Member, [1st International Workshop on Software Engineering for Responsible AI (SE4RAI) 2022](https://conf.researchr.org/home/icse-2022/se4rai-2022), Co-located with the [44th International Conference on Software Engineering (ICSE) 2022](https://conf.researchr.org/home/icse-2022), Virtual, Pittsburgh, USA
+  1. PC Member, [International Conference on Software Architecture (ICSA) 2023](https://icsa-conferences.org)
+  2. Co-chair, [2nd International Workshop on Software Architecture and Machine Learning](https://saml.disim.univaq.it/saml2022), co-located with the [European Conference on Software Architecture (ECSA) 2022)](https://conf.researchr.org/home/ecsa-2022),Prague, Czech Republic  
+  3. Reviewer, IEEE Transactions on Services Computing (TSC), IEEE Transactions Journal, IF: 8.21, Quartile Rank: Q1, https://www.computer.org/csdl/journal/sc
+  4. PC Member, [1st International Conference on AI Engineering-Software Engineering for AI (CAIN) 2022](https://conf.researchr.org/home/cain-2022), Co-located with the [44th International Conference on Software Engineering (ICSE) 2022](https://conf.researchr.org/home/icse-2022), Virtual, Pittsburgh, USA
+  5. PC Member, [1st International Workshop on Software Engineering for Responsible AI (SE4RAI) 2022](https://conf.researchr.org/home/icse-2022/se4rai-2022), Co-located with the [44th International Conference on Software Engineering (ICSE) 2022](https://conf.researchr.org/home/icse-2022), Virtual, Pittsburgh, USA
 
 __2021__
 
