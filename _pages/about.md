@@ -20,5 +20,3 @@ Karthik Vaidhyanathan is an Assistant Professor at the [Software Engineering Res
 
 
 Karthik also poses more than 5 years of industrial experience as an employee and as a consultant in building and deploying ML products/services.
-
-Detailed description of the different research directions that I pursue can be found [here](https://karthikvaidhyanathan.com/research/)
