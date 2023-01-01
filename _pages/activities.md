@@ -9,6 +9,11 @@ _"Science is a collaborative effort"_  - John Bardeen
 
 I have been involved as a co-chair/organizing committee member/program committee member/reviewer/student volunteer/organizer of various high impact conferences, workshops, journals and many other events.
 
+__2023__
+
+  1. Web Chair, [International Conference on Software Architecture (ICSA) 2023](https://icsa-conferences.org)
+  2. Poster Track Co-Chair, [2nd International Conference on AI Engineering Software Engineering for AI](https://conf.researchr.org/home/cain-2023)
+
 __2022__
 
   1. PC Member, [International Conference on Software Architecture (ICSA) 2023](https://icsa-conferences.org)
