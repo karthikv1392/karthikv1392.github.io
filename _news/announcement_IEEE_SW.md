@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted for IEEE Software
+title: Paper published in IEEE Software
 date: 2022-11-11 15:59:00-0400
 inline: false
 ---
