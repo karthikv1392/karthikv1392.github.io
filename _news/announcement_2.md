@@ -2,7 +2,7 @@
 layout: post
 title: Paper accepted for SA-TTA, ACM SAC 2022
 date: 2021-12-14 16:11:00-0400
-inline: false
+inline: true
 ---
 
 Our paper titled "FEAST: A Framework for Evaluating Implementation Architectures of Self-adaptive IoT Systems" was accepted in the 10th technical track on software architecture (SA-TTA 2022) as a part of [The 37th ACM/SIGAPP Symposium On Applied Computing](https://www.sigapp.org/sac/sac2022/). This paper came out as a result of the project done by Federico Di Menna.
