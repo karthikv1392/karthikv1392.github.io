@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python Experiments for Virtual Labs
+title: Python - Vlabs
 description: Development of Python lab experiments as a part of Virtual Labs Project.
 img: assets/img/vlabs_logo.jpeg
 importance: 1
