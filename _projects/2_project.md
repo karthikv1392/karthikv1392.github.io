@@ -2,7 +2,7 @@
 layout: page
 title: Python Experiments for Virtual Labs
 description: Development of Python lab experiments as a part of Virtual Labs Project.
-img:
+img: assets/img/vlabs_logo.jpeg
 importance: 1
 category: work
 role: Co-PI
