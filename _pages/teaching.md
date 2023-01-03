@@ -15,7 +15,7 @@ __2022-Present__ _Assistant Professor, IIIT Hyderabad, India_
 The real academic journeys started here. After I joined IIIT Hyderabad, in the first semester I was co-teaching two courses.
 
 1. Monsoon 2022 - Co-taught Operating Systems and Topics in Software engineering
-2. Spring 2023 - [CS6.401 Software Engineering](#)
+2. Spring 2023 - [CS6.401 Software Engineering](https://karthikv1392.github.io/se-iiith)
 
 
 __2021-2022__ _Postdoc and Cultore Della Materia, University of L'Aquila, Italy_
