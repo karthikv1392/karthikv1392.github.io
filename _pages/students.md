@@ -26,7 +26,7 @@ __Ongoing MS Students__
 __Ongoing Dual Degree Students__
 
   1. Adyansh Kakrn, CSD, IIIT Hyderabad, India
-  2. Prakhar Jain, CLD, IIIT Hyderabad, India_
+  2. Prakhar Jain, LCD, IIIT Hyderabad, India_
 
 __Completed__
 
