@@ -25,8 +25,8 @@ __Ongoing MS Students__
 
 __Ongoing Dual Degree Students__
 
-  1. Adyansh Kakrn, CSD, IIIT Hyderabad, India
-  2. Prakhar Jain, CLD, IIIT Hyderabad, India_
+  1. Adyansh Kakrn, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  2. Prakhar Jain, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India_
 
 __Completed__
 
@@ -47,6 +47,9 @@ __Completed__
   1. Lorenzo Solazzo (Co-supervisor), University of L'Aquila, Italy
   2. Dawid Pado (Co-supervisor), University of L'Aquila, Italy
 
-## Research Students
+## Research Interns
 
   1. Mohit Patni, Indore Institute of Technology, Indore, India (Spring Internship, 2023)
+  2. Drishti Singh, Manipal University, Jaipur (Summer Internship - Sristhi, 2023)
+  3. Hiya Bhatt, Manipal Univeristy, Jaipur (Summer Internship - Sristhi, 2023)
+  4. Adithyan CP, Bharathidasan University, Trichy, India (Summer Internship, 2023)

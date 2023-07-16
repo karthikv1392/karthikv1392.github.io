@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>23, Himalaya Block-D</p>
-    <p>5th Floor, Software Engineering Research Center</p>
+    <p>409, 4th Floor</p>
+    <p>Software Engineering Research Center, Himalaya Block-D</p>
     <p>IIIT Hyderabad, Gachibowli, India 500032</p>
 
 news: true  # includes a list of news items
