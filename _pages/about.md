@@ -7,6 +7,7 @@ subtitle: <a href='#'>Assistant Professor</a>. IIIT Hyderabad, India
 profile:
   align: right
   image: prof_pic.jpg
+  image_circular: true
   address: >
     <p>409, 4th Floor</p>
     <p>Software Engineering Research Center, Himalaya Block-D</p>
