@@ -12,6 +12,14 @@ I have been involved as a co-chair/organizing committee member/program committee
 __2024__
 
   1. Local Organization Chair, [21st IEEE International Conference on Software Architecture (ICSA) 2024](https://icsa-conferences.org)
+  2. Organizing Co-Chair [3rd Workshop on Software Architecture and Machine Learning SAML 2024][https://sa-ml.github.io/saml2024/]
+  3. Track Co-Chair, Quality in Adaptive Software [17th International Conference on the Quality of Information and Communications Technology](https://sites.google.com/view/quatic2024/?pli=1)
+  3. PC Member, [3rd International Conference on AI Engineering – Software Engineering for AI](https://conf.researchr.org/home/cain-2024)
+  4. PC Member, [The ACM International Conference on the Foundations of Software Engineering (FSE)](https://conf.researchr.org/home/fse-2024)
+  5. PC Member, [19th International Conference on Software Engineering for Adaptive and Self-Managing Systems](https://conf.researchr.org/home/seams-2024)
+  6. PC Member, [2nd International Workshop on Responsible AI Engineering (RAIE’24)](https://conf.researchr.org/home/icse-2024/raie-2024)
+  7. PC Member, [8th International Workshop on Green and Sustainable Software](https://greensworkshop.github.io)
+
 
 __2023__
 
