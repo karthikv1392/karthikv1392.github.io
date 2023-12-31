@@ -17,7 +17,7 @@ __Ongoing PhD Students__
 
   1. Rudra Dhar, Computer Science PhD Student, IIIT Hyderabad, India (Co-supervision with Prof. Vasudeva Varma)
   2. GVVS Raju, Computer Science PhD Student, IIIT Hyderabad, India (Co-supervision with Dr. Raghu Reddy)
-  3. Akhila, Computer Science PhD Student, IIIT Hyderabad, India
+  3. Akhila Matathammal, Computer Science PhD Student, IIIT Hyderabad, India
   
 
 ## Master Students
@@ -45,7 +45,6 @@ __Ongoing Honors Students__
   3. Meghana Tadla, B.Tech ECE, IIIT Hyderabad, India
 
 __Bachelor Thesis Projects (BTP) Students__
-
 
 
 __Completed__

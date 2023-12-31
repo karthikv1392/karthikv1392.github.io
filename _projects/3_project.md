@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SA4S - Sustainable and Self-adaptive Software Systems
+title: SA4S
 description: Architecture-based approach for sustainable data intensive software systems
 img: assets/img/sa4s.png
 importance: 1
