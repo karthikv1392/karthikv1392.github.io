@@ -9,6 +9,11 @@ _"Science is a collaborative effort"_  - John Bardeen
 
 I have been involved as a co-chair/organizing committee member/program committee member/reviewer/student volunteer/organizer of various high impact conferences, workshops, journals and many other events.
 
+__2025__
+
+  1. Track Co-Chair, SA-TTA 2025 [The 40th ACM/SIGAPP Symposium On Applied Computing](https://www.sigapp.org/sac/sac2025/)
+  2. Proceedings Chair, CAIN 2025 [4th International Conference on AI Engineering, co-located with ICSE 2025](https://conf.researchr.org/home/cain-2025)
+
 __2024__
 
   1. Local Organization Chair, [21st IEEE International Conference on Software Architecture (ICSA) 2024](https://icsa-conferences.org)
@@ -32,7 +37,7 @@ __2023__
 __2022__
 
   1. PC Member, [International Conference on Software Architecture (ICSA) 2023](https://icsa-conferences.org)
-  2. Co-chair, [2nd International Workshop on Software Architecture and Machine Learning](https://saml.disim.univaq.it/saml2022), co-located with the [European Conference on Software Architecture (ECSA) 2022)](https://conf.researchr.org/home/ecsa-2022),Prague, Czech Republic  
+  2. Co-chair, [2nd International Workshop on Software Architecture and Machine Learning](https://saml.disim.univaq.it/saml2022), co-located with the [European Conference on Software Architecture (ECSA) 2022)](https://conf.researchr.org/home/ecsa-2022),Prague, Czech Republic
   3. Reviewer, IEEE Transactions on Services Computing (TSC), IEEE Transactions Journal, IF: 8.21, Quartile Rank: Q1, https://www.computer.org/csdl/journal/sc
   4. PC Member, [1st International Conference on AI Engineering-Software Engineering for AI (CAIN) 2022](https://conf.researchr.org/home/cain-2022), Co-located with the [44th International Conference on Software Engineering (ICSE) 2022](https://conf.researchr.org/home/icse-2022), Virtual, Pittsburgh, USA
   5. PC Member, [1st International Workshop on Software Engineering for Responsible AI (SE4RAI) 2022](https://conf.researchr.org/home/icse-2022/se4rai-2022), Co-located with the [44th International Conference on Software Engineering (ICSE) 2022](https://conf.researchr.org/home/icse-2022), Virtual, Pittsburgh, USA

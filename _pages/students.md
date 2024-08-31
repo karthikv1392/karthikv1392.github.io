@@ -18,34 +18,61 @@ __Ongoing PhD Students__
   1. Rudra Dhar, Computer Science PhD Student, IIIT Hyderabad, India (Co-supervision with Prof. Vasudeva Varma)
   2. GVVS Raju, Computer Science PhD Student, IIIT Hyderabad, India (Co-supervision with Dr. Raghu Reddy)
   3. Akhila Matathammal, Computer Science PhD Student, IIIT Hyderabad, India
-  
+
 
 ## Master Students
 
 __Ongoing MS Students__
-  1. Shubham Kulkarni, MS by Research, IIIT Hyderabad, India
+
+  1. Hiya Bhatt, MS by Research in CS, IIIT Hyderabad, India
+  2. Chandrasekar S, MS by Research in CS, IIIT Hyderabad, India
 
 __Ongoing Dual Degree Students__
 
-  1. Adyansh Kakrn, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  2. Prakhar Jain, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India_
+  1. Adyansh Kakran, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  2. Prakhar Jain, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India
+  3. Amey Karan, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  4. Miryala Sathvika, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India
+  5. Prakhar Singhal, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  6. Shaunak Biswas, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  7. Shailender Goyal, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  8. Bassam Adnan, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
+  9. Sambu Aneesh, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
 
-__Completed__
+__Graduated__
 
-  1. Stefano Florio, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
-  2. Marco De Toma,  Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
-  3. Matteo Capodicasa, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  1. Shubham Kulkarni, MS by Research, IIIT Hyderabad, India (Supervisor)
+  2. Stefano Florio, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  3. Marco De Toma,  Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  4. Matteo Capodicasa, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
 
 ## Bachelor Students
+
 
 __Ongoing Honors Students__
 
   1. Arya Pravin Marda, B.Tech ECE, IIIT Hyderabad, India
   2. Shrikara A, B.Tech CSE, IIIT Hyderabad, India
   3. Meghana Tadla, B.Tech ECE, IIIT Hyderabad, India
+  4. Maddireddy Kritin, B.Tech CSE, IIIT Hyderabad, India
+  5. Vyakhya Gupta, B.Tech CSE, IIIT Hyderabad, India
+  6. Kotekal Methukula Santhosh, B.Tech CSE, IIIT Hyderabad, India
+  7. Divyansh Pandey, B.Tech CSE, IIIT Hyderabad, India
+
 
 __Bachelor Thesis Projects (BTP) Students__
 
+
+  1. Shashwat Dash, B.Tech CSE, BTP year 2023-2024
+  2. Harshit Karwal, B.Tech CSE, BTP year 2023-2024
+  3. Mukta Chanda, B.Tech CSE, BTP year 2023-2024
+  4. Nikunj Garg, B.Tech CSE, BTP year 2023-2024
+  5. Vansh Pravin Marda, B.Tech CSE, BTP year 2023-2024
+  6. Yatharth Gupta, B.Tech CSE, BTP year 2023-2024
+  7. Pabba Ananya Vaibhavi, B.Tech CSE, BTP year 2023-2024
+  8. T Ravindra, B.Tech ECE, BTP year 2023-2024
+  9. Tirumareddy D K Sai Abhishek, B.Tech ECE, BTP year 2023-2024
+  10. Irugula Hanish Reddy, B.Tech ECE, BTP year 2023-2024
 
 __Completed__
 

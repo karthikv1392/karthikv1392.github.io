@@ -18,6 +18,7 @@ The real academic journeys started here. After I joined IIIT Hyderabad, in the f
 2. Spring 2023 - [CS6.401 Software Engineering](https://karthikv1392.github.io/cs6401_se_2023)
 3. Monsoon 2023 - [CS3.301 Operating Systems and Networks](https://karthikv1392.github.io/cs3301_osn)
 4. Spring 2024 - [CS6.401 Software Engineering](https://karthikv1392.github.io/cs6401_se)
+5. Monsoon 2024 - [CS3.301 Operating Systems and Networks](https://karthikv1392.github.io/cs3301_osn)
 
 
 __2021-2022__ _Postdoc and Cultore Della Materia, University of L'Aquila, Italy_
