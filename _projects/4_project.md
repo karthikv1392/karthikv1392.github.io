@@ -3,7 +3,7 @@ layout: page
 title: LLM Powered Agent
 description: Development of an LLM Powered Agent for performing cloud operations
 img: assets/img/cloudops.png
-importance: 1
+importance: 2
 category: work
 role: PI
 budget: -

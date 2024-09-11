@@ -3,13 +3,13 @@ layout: page
 title: SA4S
 description: Architecture-based approach for sustainable data intensive software systems
 img: assets/img/sa4s.png
-importance: 1
+importance: 2
 category: work
 role: PI
 budget: 10,000,00 INR
 ---
 
-Sustainability  has also been recognized as one of the key non-functional attributes to be considered during software design. However, despite growing efforts from the software engineering community to handle these challenges over the last few years, the ability to determine the sustainability of a legacy or a green field software system through the lens of software architecture in terms of the cost related to maintainability, evolvability and energy consumed is still an open research area. These challenges are further amplified in the case of IoT and Machine Learning (ML) enabled systems due to the highly uncertain, heterogeneous and dynamic nature of the systems. These systems can be broadly classified as Data Intensive Software Systems (DISS) and due to the various challenges related to heterogeneity, uncertainties, etc, building and maintaining sustainable DISS remains an open challenge. To this end, this project aims to contribute towards addressing the technical and environmental sustainability challenges faced by modern software systems through an architecture centric approach. 
+Sustainability  has also been recognized as one of the key non-functional attributes to be considered during software design. However, despite growing efforts from the software engineering community to handle these challenges over the last few years, the ability to determine the sustainability of a legacy or a green field software system through the lens of software architecture in terms of the cost related to maintainability, evolvability and energy consumed is still an open research area. These challenges are further amplified in the case of IoT and Machine Learning (ML) enabled systems due to the highly uncertain, heterogeneous and dynamic nature of the systems. These systems can be broadly classified as Data Intensive Software Systems (DISS) and due to the various challenges related to heterogeneity, uncertainties, etc, building and maintaining sustainable DISS remains an open challenge. To this end, this project aims to contribute towards addressing the technical and environmental sustainability challenges faced by modern software systems through an architecture centric approach.
 
 ## Team
 
