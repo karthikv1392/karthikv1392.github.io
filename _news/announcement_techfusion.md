@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Delivered a Keynote in SATrends Co-located with ICSE 2024
+title: Delivered a talk at TechFusion 2024, London
 date: 2024-09-11 17:00:00-0400
 inline: false
 ---
