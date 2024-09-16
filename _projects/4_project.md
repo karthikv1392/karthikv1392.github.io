@@ -6,7 +6,7 @@ img: assets/img/cloudops.png
 importance: 2
 category: work
 role: PI
-budget: -
+budget: 50L
 ---
 
 The emergence of Generative AI presents lot of oppurtunities to the software engineering commmunity. One such oppurtunity is automating (with minimal human support) cloud operations which involves performing security checks, compliance checks, running well architected assesments, recommending possible actions that can be performed to enhance security, reduce cost, improve reliability, etc. To this end, this project in collaboration with MontyCloud Inc. aims to develop an LLM powered agent for supporting autonomous cloud operations. First version of the product, CloudOps Copilot is now available, [check here](https://montycloud.com/cloudops-copilot)
