@@ -4,7 +4,6 @@ title: Projects
 permalink: /projects/
 description: In this projects, I list some of projects in which I am working on currently (Both funded as well as personal)
 nav: true
-display_categories: [work, fun]
 horizontal: false
 ---
 
