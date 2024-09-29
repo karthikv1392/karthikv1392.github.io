@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LLM Powered Agent
-description: Development of an LLM Powered Agent for performing cloud operations
+title: LLM Powered Autonomous CloudOps
+description: Development of an LLM Powered System for Autonomous CloudOps
 img: assets/img/cloudops.png
 importance: 2
 category: work
@@ -9,7 +9,9 @@ role: PI
 budget: 50L
 ---
 
-The emergence of Generative AI presents lot of oppurtunities to the software engineering commmunity. One such oppurtunity is automating (with minimal human support) cloud operations which involves performing security checks, compliance checks, running well architected assesments, recommending possible actions that can be performed to enhance security, reduce cost, improve reliability, etc. To this end, this project in collaboration with MontyCloud Inc. aims to develop an LLM powered agent for supporting autonomous cloud operations. First version of the product, CloudOps Copilot is now available, [check here](https://montycloud.com/cloudops-copilot)
+The emergence of Generative AI presents lot of oppurtunities to the software engineering commmunity. One such oppurtunity is automating (with minimal human support) cloud operations which involves performing security checks, compliance checks, running well architected assesments, recommending possible actions that can be performed to enhance security, reduce cost, improve reliability, etc. To this end, this project in collaboration with [MontyCloud Inc.](https://montycloud.com) aims to develop an LLM powered system for supporting autonomous cloud operations. First version of the product, CloudOps Copilot is now available, [check here](https://montycloud.com/cloudops-copilot).
+
+If you are interested in reading more, check out our [blog article on our journey and future possibilities](https://blogs.iiit.ac.in/montycloud/)
 
 
 ## Team
