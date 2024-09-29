@@ -16,8 +16,8 @@ I have been fortunate to work with some brilliant minds. I would like to thank a
 __Ongoing PhD Students__
 
   1. Rudra Dhar, Computer Science PhD Student, IIIT Hyderabad, India (Co-supervision with Prof. Vasudeva Varma)
-  2. GVVS Raju, Computer Science PhD Student, IIIT Hyderabad, India (Co-supervision with Dr. Raghu Reddy)
-  3. Akhila Matathammal, Computer Science PhD Student, IIIT Hyderabad, India
+  2. Akhila Matathammal, Computer Science PhD Student, IIIT Hyderabad, India
+  3. Sabyasachi Mukhopadhyay, Computer Science PhD Student (Part-time), IIIT Hyderabad, India (Co-supervision with Dr. Manish Shrivastava)
 
 
 ## Master Students
