@@ -46,8 +46,11 @@ __Graduated__
   3. Marco De Toma,  Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
   4. Matteo Capodicasa, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
 
-## Bachelor Students
+## Research Staff
 
+  1. Sreemaee Akshathala, Research Engineer (GenAI for CloudOps), IIIT Hyderabad, India
+
+## Bachelor Students
 
 __Ongoing Honors Students__
 

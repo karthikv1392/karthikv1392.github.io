@@ -14,11 +14,11 @@ __2022-Present__ _Assistant Professor, IIIT Hyderabad, India_
 
 The real academic journeys started here. After I joined IIIT Hyderabad, in the first semester I was co-teaching two courses.
 
-1. Monsoon 2022 - Co-taught Operating Systems and Topics in Software engineering
-2. Spring 2023 - [CS6.401 Software Engineering](https://karthikv1392.github.io/cs6401_se_2023)
+1. Monsoon 2024 - [CS3.301 Operating Systems and Networks](https://karthikv1392.github.io/cs3301_osn)
+2. Spring 2024 - [CS6.401 Software Engineering](https://karthikv1392.github.io/cs6401_se)
 3. Monsoon 2023 - [CS3.301 Operating Systems and Networks](https://karthikv1392.github.io/cs3301_osn)
-4. Spring 2024 - [CS6.401 Software Engineering](https://karthikv1392.github.io/cs6401_se)
-5. Monsoon 2024 - [CS3.301 Operating Systems and Networks](https://karthikv1392.github.io/cs3301_osn)
+4. Spring 2023 - [CS6.401 Software Engineering](https://karthikv1392.github.io/cs6401_se_2023)
+5. Monsoon 2022 - Co-taught Operating Systems and Topics in Software engineering
 
 
 __2021-2022__ _Postdoc and Cultore Della Materia, University of L'Aquila, Italy_
