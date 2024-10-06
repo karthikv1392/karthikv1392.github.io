@@ -22,6 +22,7 @@ On the one hand, we have software systems that generate a tremendous amount of d
 ### Artificial Intelligence for Software Architecture (AI4SA)
 
 This area focusses on developing AI based techniques for enhancing architecting processes/practices. This research area has two aspects to it:
+
     i) Developing AI in particular Generative AI for supporting design-time activities such as architectural decision-making, architectural evaluation, etc. This will mainly help
        in contributing to the overall area of architecture knowledge management.
 
