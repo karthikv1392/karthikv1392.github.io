@@ -13,6 +13,11 @@ __2025__
 
   1. Track Co-Chair, SA-TTA 2025 [The 40th ACM/SIGAPP Symposium On Applied Computing](https://www.sigapp.org/sac/sac2025/)
   2. Proceedings Chair, CAIN 2025 [4th International Conference on AI Engineering, co-located with ICSE 2025](https://conf.researchr.org/home/cain-2025)
+  3. Workshop Co-Chair [4th International Workshop on Software Architecture and Machine Learning (SAML) 2025](https://sa-ml.github.io/saml2025/)
+  4. PC Member, [22nd IEEE International Conference on Software Architecture (ICSA) 2025](https://conf.researchr.org/home/icsa-2025)
+  5. PC Member, [3rd International Workshop on Responsible AI Engineering (RAIE’25)](https://conf.researchr.org/home/icse-2025/raie-2024)
+  6. PC Member, [9th International Workshop on Green and Sustainable Software, GREENS 2025](https://greensworkshop.github.io)
+
 
 __2024__
 
