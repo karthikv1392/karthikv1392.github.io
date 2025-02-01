@@ -19,8 +19,13 @@ If you are interested in reading more, check out our [blog article on our journe
 Any project requires team effort. The following students/collaborators have been instrumental in the development of different experiments.
 
 1. Rudra Dhar, MS by Research Student, IIIT Hyderabad, India
-2. Adyansh Kakran, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
-3. Shrikara A, B.Tech CSE Honors Student, IIIT Hyderabad, India
+2. Sreemaee Akshathala, Research Engineer, IIIT Hyderabad India
+3. Adyansh Kakran, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
+4. Amey Karan, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
+5. Shrikara A, B.Tech CSE Honors Student, IIIT Hyderabad, India
+
+
+
 
 
 <!--## Key Tools and Technologies used

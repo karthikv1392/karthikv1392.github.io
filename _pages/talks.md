@@ -8,6 +8,16 @@ nav: true
 
 # Recent Talks
 
+## 2025
+
+- **A Tale of Discovery at the Crossroads of AI and Sustainable Software Engineering**
+  _Invited Talk to research group of Prof. Ivona Brandic, TU Wein_  
+  January 2025
+
+- **Engineering AI Systems: An Overview** 
+  _Invited Talk at Plume, Hyderabad, India_  
+  January 2025
+
 ## 2024
 
 - **Tutorial: Engineering Digital Twins for Intelligent Transport Systems**  
