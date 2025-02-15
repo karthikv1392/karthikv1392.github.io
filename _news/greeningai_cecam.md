@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invited and Participated in the Greening AI with Software Engineering Workshop, CECAM-HQ, EPFL, Lausanne, Switzerland
-date: 2024-02-11 17:00:00-0400
+date: 2025-02-11 17:00:00-0400
 inline: false
 ---
 
