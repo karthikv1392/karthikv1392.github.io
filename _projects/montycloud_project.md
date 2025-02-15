@@ -6,19 +6,21 @@ img: assets/img/cloudops.png
 importance: 2
 category: work
 role: PI
-budget: 50L
+budget: 
 ---
 
 The emergence of Generative AI presents lot of oppurtunities to the software engineering commmunity. One such oppurtunity is automating (with minimal human support) cloud operations which involves performing security checks, compliance checks, running well architected assesments, recommending possible actions that can be performed to enhance security, reduce cost, improve reliability, etc. To this end, this project in collaboration with [MontyCloud Inc.](https://montycloud.com) aims to develop an LLM powered system for supporting autonomous cloud operations. First version of the product, CloudOps Copilot is now available, [check here](https://montycloud.com/cloudops-copilot).
 
-If you are interested in reading more, check out our [blog article on our journey and future possibilities](https://blogs.iiit.ac.in/montycloud/)
+If you are interested in reading more, check out our [blog article on our journey and future possibilities](https://blogs.iiit.ac.in/montycloud/).
+
+Press release on the framework we developed: [MontyCloud and IIIT Hyderabad present groundbreaking framework for autonomous agent orchestration at CAIN 2024](https://www.einpresswire.com/article/777313708/montycloud-and-iiit-hyderabad-present-groundbreaking-framework-for-autonomous-agent-orchestration-at-cain)
 
 
 ## Team
 
 Any project requires team effort. The following students/collaborators have been instrumental in the development of different experiments.
 
-1. Rudra Dhar, MS by Research Student, IIIT Hyderabad, India
+1. Rudra Dhar, PhD Student, IIIT Hyderabad, India
 2. Sreemaee Akshathala, Research Engineer, IIIT Hyderabad India
 3. Adyansh Kakran, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
 4. Amey Karan, B.Tech CS Dual Degree Student, IIIT Hyderabad, India

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Model Switching
-description: Enhancing Sustainability at the Edge using mode Swtiching
-img: assets/img/cloudops.png
+description: Enhancing Sustainability at the Edge using model Swtiching
+img: assets/img/ai_edge.png
 importance: 2
 category: work
 role: PI

@@ -11,7 +11,7 @@ budget: 3,75000 INR
 
 [Virutal labs is a national funded project, funded by MHRD, Government of India](https://www.vlab.co.in/) that aims to provide a platform for students to learn various engineering concepts in an interactive and engaging manner. To this end, it involves developing a set of experiments for teaching every engineering concept. Each subject or broad topic is considered as a lab and inside each lab a set of experiments are created to effectively explain the subject or topic. To know more about virtual labs project, [click here](https://www.vlab.co.in/).
 
-This specific project that I am involved as a Co-PI (PI: Dr. Raghu Reddy), focusses on developing a set of additional experiments for extending the existing [Python lab](https://python-iitk.vlabs.ac.in/). This involves development of experiments for teaching concepts like Exception handling, complex data types, higher order functions, lambda functions, etc.
+This specific project that I am involved as a Co-PI (PI: Dr. Raghu Reddy), focusses on developing a set of additional experiments for teaching advanced topics in Python. This involves development of experiments for teaching concepts like Exception handling, complex data types, higher order functions, lambda functions, etc. The full version of the developedlab is available [here](https://python-iiith.vlabs.ac.in/Introduction.html).
 
 ## Team
 

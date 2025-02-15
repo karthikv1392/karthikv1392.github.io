@@ -2,14 +2,14 @@
 layout: page
 title: GreenSAM - Approach for Greening Software Deployments
 description: Development of approaches, frameworks and tools for greening software deployments
-img: assets/img/cloudops.png
+img: assets/img/greensam.png
 importance: 2
 category: work
 role: PI
 budget: 
 ---
 
-The goal of the project is tot develop approaches, frameworks and tools for greening software deployments. The project is in collaboration with [Lloyds Technology Center](https://lloydstechnologycentre.com)
+The goal of the project is to develop approaches, frameworks and tools for greening software deployments. The project is in collaboration with [Lloyds Technology Center](https://lloydstechnologycentre.com)
 
 
 ## Team
