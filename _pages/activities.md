@@ -9,6 +9,10 @@ _"Science is a collaborative effort"_  - John Bardeen
 
 I have been involved as a co-chair/organizing committee member/program committee member/reviewer/student volunteer/organizer of various high impact conferences, workshops, journals and many other events.
 
+__2026__
+
+  1. PC Member, [48th International Conference on Software Engineering (ICSE) 2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
+  
 __2025__
 
   1. Track Co-Chair, SA-TTA 2025 [The 40th ACM/SIGAPP Symposium On Applied Computing](https://www.sigapp.org/sac/sac2025/)
@@ -17,6 +21,7 @@ __2025__
   4. PC Member, [22nd IEEE International Conference on Software Architecture (ICSA) 2025](https://conf.researchr.org/home/icsa-2025)
   5. PC Member, [3rd International Workshop on Responsible AI Engineering (RAIE’25)](https://conf.researchr.org/home/icse-2025/raie-2024)
   6. PC Member, [9th International Workshop on Green and Sustainable Software, GREENS 2025](https://greensworkshop.github.io)
+  7. PC Member, [4th International Conference on AI Engineering, co-located with ICSE 2025](https://conf.researchr.org/home/cain-2025)
 
 
 __2024__
