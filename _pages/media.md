@@ -10,7 +10,7 @@ There have been some media (press and institute) coverage of my work as well as 
 
 1. [MontyCloud and IIIT Hyderabad present groundbreaking framework for autonomous agent orchestration at CAIN](https://www.einpresswire.com/article/777313708/montycloud-and-iiit-hyderabad-present-groundbreaking-framework-for-autonomous-agent-orchestration-at-cain)
 
-2. [Enhancing Sustainability of Modern Software Systems through Self-adaptive Architectures]([text](https://blogs.iiit.ac.in/software-sustainability/))
+2. [Enhancing Sustainability of Modern Software Systems through Self-adaptive Architectures](https://blogs.iiit.ac.in/software-sustainability/)
 
 3. [Self-adaptive EdgeML With Model Balancer](https://blogs.iiit.ac.in/self-adaptive-edgeml-with-model-balancer/)
 
