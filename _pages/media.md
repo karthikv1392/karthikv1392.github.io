@@ -2,7 +2,7 @@
 layout: page
 permalink: /media/
 title: Media
-description:
+description: 
 nav: true
 ---
 
