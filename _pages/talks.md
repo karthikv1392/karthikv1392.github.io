@@ -10,8 +10,13 @@ nav: true
 
 ## 2025
 
+- **Panel on Generative AI
+  _Panelist, on Adopting the Fast Emerging Tech, Uber GenAI Meetup 2025, Uber, Hyderabad _
+  November 2025
+  [Website](https://pages.beamery.com/uber/page/uber-gen-ai-meetup-2025-nyojuscvut)
+
 - **Generative AI in Software Engineering: Perspectives from Research**
-  _Invited Talk, AI for Software Lifecycle event Organized by ThinkWise, Hyderabad
+  _Invited Talk, AI for Software Lifecycle event Organized by ThinkWise, Hyderabad_
   November 2025
   [Slides](https://www.dropbox.com/scl/fi/2lla0nzx4uzngi5foh8lu/GenAI_SE_Research_Talk_14Nov2025-copy.pdf?rlkey=dt4qmx0gdztzb180x7a1cwi8f&st=mm2rj3dm&dl=0)
 
