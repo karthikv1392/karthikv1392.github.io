@@ -26,6 +26,8 @@ __Ongoing MS Students__
 
   1. Hiya Bhatt, MS by Research in CS, IIIT Hyderabad, India
   2. Chandrasekar S, MS by Research in CS, IIIT Hyderabad, India
+  3. Sreemaee Akshathala, MS by Research in CS, IIIT Hyderabad, India
+  4. Likhith Kanigolla, MS by Research in CS, IIIT Hyderabad, India
 
 __Ongoing Dual Degree Students__
 
@@ -38,33 +40,37 @@ __Ongoing Dual Degree Students__
   7. Shailender Goyal, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
   8. Bassam Adnan, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
   9. Sambu Aneesh, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
+  10. Aviral Gupta, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  11. Arihant Tripathy, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
 
 __Graduated__
 
   1. Shubham Kulkarni, MS by Research, IIIT Hyderabad, India (Supervisor)
-  2. Stefano Florio, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
-  3. Marco De Toma,  Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
-  4. Matteo Capodicasa, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  2. Arya Pravin Marda, B.Tech ECE, IIIT Hyderabad, India
+  3. Shrikara A, B.Tech CSE, IIIT Hyderabad, India
+  4. Meghana Tadla, B.Tech ECE, IIIT Hyderabad, India
+  5. Stefano Florio, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  6. Marco De Toma,  Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  7. Matteo Capodicasa, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
 
 ## Research Staff
 
-  1. Sreemaee Akshathala, Research Engineer (GenAI for CloudOps), IIIT Hyderabad, India
+  1. Anetta Sara, Junior Research Fellow, IIIT Hyderabad, India
+  2. Mahisha Ramesh, Research Engineer (GenAI for CloudOps), IIIT Hyderabad, India
+  3. CH Pavan, Research Engineer (Sustainable Softare Systems), IIIT Hyderabad, India
 
 ## Bachelor Students
 
 __Ongoing Honors Students__
 
-  1. Arya Pravin Marda, B.Tech ECE, IIIT Hyderabad, India
-  2. Shrikara A, B.Tech CSE, IIIT Hyderabad, India
-  3. Meghana Tadla, B.Tech ECE, IIIT Hyderabad, India
-  4. Maddireddy Kritin, B.Tech CSE, IIIT Hyderabad, India
-  5. Vyakhya Gupta, B.Tech CSE, IIIT Hyderabad, India
-  6. Kotekal Methukula Santhosh, B.Tech CSE, IIIT Hyderabad, India
-  7. Divyansh Pandey, B.Tech CSE, IIIT Hyderabad, India
+  1. Maddireddy Kritin, B.Tech CSE, IIIT Hyderabad, India
+  2. Vyakhya Gupta, B.Tech CSE, IIIT Hyderabad, India
+  3. Kotekal Methukula Santhosh, B.Tech CSE, IIIT Hyderabad, India
+  4. Divyansh Pandey, B.Tech CSE, IIIT Hyderabad, India
+  5. Ananya Halagatti, B.Tech CSE, IIIT Hyderabad, India
 
 
 __Bachelor Thesis Projects (BTP) Students__
-
 
   1. Shashwat Dash, B.Tech CSE, BTP year 2023-2024
   2. Harshit Karwal, B.Tech CSE, BTP year 2023-2024

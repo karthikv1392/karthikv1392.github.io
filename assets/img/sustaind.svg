@@ -1,0 +1,63 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5F5F5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E8F5E9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="nodeGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#66BB6A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="600" fill="url(#bgGradient)"/>
+  
+  <!-- AI Neural Network Nodes (Top Section) -->
+  <g id="neural-network">
+    <!-- Layer 1 -->
+    <circle cx="200" cy="120" r="20" fill="url(#nodeGradient)" stroke="#1B5E20" stroke-width="2"/>
+    <circle cx="200" cy="180" r="20" fill="url(#nodeGradient)" stroke="#1B5E20" stroke-width="2"/>
+    <circle cx="200" cy="240" r="20" fill="url(#nodeGradient)" stroke="#1B5E20" stroke-width="2"/>
+    
+    <!-- Layer 2 -->
+    <circle cx="400" cy="120" r="20" fill="#64B5F6" stroke="#1976D2" stroke-width="2"/>
+    <circle cx="400" cy="180" r="20" fill="#64B5F6" stroke="#1976D2" stroke-width="2"/>
+    <circle cx="400" cy="240" r="20" fill="#64B5F6" stroke="#1976D2" stroke-width="2"/>
+    
+    <!-- Layer 3 -->
+    <circle cx="600" cy="120" r="20" fill="url(#nodeGradient)" stroke="#1B5E20" stroke-width="2"/>
+    <circle cx="600" cy="180" r="20" fill="url(#nodeGradient)" stroke="#1B5E20" stroke-width="2"/>
+    <circle cx="600" cy="240" r="20" fill="url(#nodeGradient)" stroke="#1B5E20" stroke-width="2"/>
+    
+    <!-- Connections -->
+    <line x1="220" y1="120" x2="380" y2="120" stroke="#66BB6A" stroke-width="2" opacity="0.6"/>
+    <line x1="220" y1="180" x2="380" y2="180" stroke="#66BB6A" stroke-width="2" opacity="0.6"/>
+    <line x1="220" y1="240" x2="380" y2="240" stroke="#66BB6A" stroke-width="2" opacity="0.6"/>
+    <line x1="420" y1="120" x2="580" y2="120" stroke="#66BB6A" stroke-width="2" opacity="0.6"/>
+    <line x1="420" y1="180" x2="580" y2="180" stroke="#66BB6A" stroke-width="2" opacity="0.6"/>
+    <line x1="420" y1="240" x2="580" y2="240" stroke="#66BB6A" stroke-width="2" opacity="0.6"/>
+  </g>
+  
+  <!-- Software Architecture Layers (Middle Section) -->
+  <g id="architecture">
+    <rect x="100" y="300" width="600" height="40" fill="#2E7D32" stroke="#1B5E20" stroke-width="2" rx="5"/>
+    <rect x="120" y="350" width="560" height="30" fill="#66BB6A" stroke="#1B5E20" stroke-width="2" rx="5"/>
+    <rect x="140" y="390" width="520" height="20" fill="#64B5F6" stroke="#1976D2" stroke-width="2" rx="5"/>
+  </g>
+  
+  <!-- Sustainability Symbol - Leaf (Bottom Section) -->
+  <g id="sustainability">
+    <path d="M 400 450 L 350 420 L 330 460 L 380 480 L 420 480 L 470 460 L 450 420 Z" 
+          fill="#2E7D32" stroke="#1B5E20" stroke-width="2"/>
+    <line x1="400" y1="450" x2="400" y2="520" stroke="#1B5E20" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="400" cy="450" r="8" fill="#66BB6A"/>
+  </g>
+  
+  <!-- Title Text -->
+  <text x="400" y="540" font-family="Arial, sans-serif" font-size="48" font-weight="bold" 
+        fill="#1B5E20" text-anchor="middle">SustAInd</text>
+  <text x="400" y="570" font-family="Arial, sans-serif" font-size="28" 
+        fill="#424242" text-anchor="middle">Sustainable AI Systems</text>
+</svg>
+
