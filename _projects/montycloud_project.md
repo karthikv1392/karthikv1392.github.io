@@ -1,7 +1,7 @@
 ---
 layout: page
-title: LLM Powered Autonomous CloudOps
-description: Development of an LLM Powered System for Autonomous CloudOps
+title: Agentic CloudOps
+description: Development of Agentic AI powered Autonomous CloudOps
 img: assets/img/cloudops.png
 importance: 2
 category: work
@@ -21,10 +21,12 @@ Press release on the framework we developed: [MontyCloud and IIIT Hyderabad pres
 Any project requires team effort. The following students/collaborators have been instrumental in the development of different experiments.
 
 1. Rudra Dhar, PhD Student, IIIT Hyderabad, India
-2. Sreemaee Akshathala, Research Engineer, IIIT Hyderabad India
-3. Adyansh Kakran, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
-4. Amey Karan, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
-5. Shrikara A, B.Tech CSE Honors Student, IIIT Hyderabad, India
+2. Mahisha Ramesh, Research Engineer, IIIT Hyderabad, India
+3. Sreemaee Akshathala, MS By Research Student (Computer Science), IIIT Hyderabad, India
+4. Bassam Adnan, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
+5. Adyansh Kakran, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
+6. Amey Karan, B.Tech CS Dual Degree Student, IIIT Hyderabad, India
+7. Shrikara A, B.Tech CSE Honors Student, IIIT Hyderabad, India
 
 
 
