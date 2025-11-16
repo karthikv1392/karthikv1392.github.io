@@ -2,20 +2,41 @@
 layout: page
 permalink: /media/
 title: Media
-description: 
+description: Press coverage and media articles about my research and work
 nav: true
 ---
 
 There have been some media (press and institute) coverage of my work as well as the work we do as SA4S group at SERC, IIIT Hyderabad. Here are some of them:
 
-1. [MontyCloud and IIIT Hyderabad present groundbreaking framework for autonomous agent orchestration at CAIN](https://www.einpresswire.com/article/777313708/montycloud-and-iiit-hyderabad-present-groundbreaking-framework-for-autonomous-agent-orchestration-at-cain)
-
-2. [Enhancing Sustainability of Modern Software Systems through Self-adaptive Architectures](https://blogs.iiit.ac.in/software-sustainability/)
-
-3. [Self-adaptive EdgeML With Model Balancer](https://blogs.iiit.ac.in/self-adaptive-edgeml-with-model-balancer/)
-
-4. [SOFTWARE ENGINEERING RESEARCH CENTRE (SERC) AT IIITH TO HOST 21ST EDITION OF IEEE INTERNATIONAL CONFERENCE ON SOFTWARE ARTHICTECTURE (ICSA) 2024](https://www.prnewswire.com/in/news-releases/software-engineering-research-centre-serc-at-iiith-to-host-21st-edition-of-ieee-international-conference-on-software-arthictecture-icsa-2024-302160454.html)
-
-5. [Dynamic Model Switching](https://www.qualcomm.com/videos/dynamic-ml-model-switching)
-
-6. [From Brickbats to Bouquets – Heartwarming Tale of a Software Engineering Researcher](https://blogs.iiit.ac.in/karthik-vaidhyanathan/)
+<div class="media-cards">
+  {% for article in site.data.media %}
+  <div class="media-card">
+    <div class="media-card-header">
+      <div class="media-type-badge">{{ article.type }}</div>
+      <div class="media-date">{{ article.date | date: "%B %Y" }}</div>
+    </div>
+    
+    <div class="media-card-content">
+      <h3 class="media-title">
+        <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer">
+          {{ article.title }}
+        </a>
+      </h3>
+      
+      <p class="media-description">{{ article.description }}</p>
+      
+      <div class="media-source">
+        <i class="fas fa-external-link-alt"></i>
+        {{ article.source }}
+      </div>
+    </div>
+    
+    <div class="media-card-footer">
+      <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer" class="media-link-btn">
+        <i class="fas fa-external-link-alt"></i>
+        Read More
+      </a>
+    </div>
+  </div>
+  {% endfor %}
+</div>

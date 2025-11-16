@@ -7,11 +7,7 @@ subtitle: <a href='#'>Assistant Professor</a>. IIIT Hyderabad, India
 profile:
   align: right
   image: karthik_circle_profile.png
-  image_circular: true
-  address: >
-    <p>509, 5th Floor</p>
-    <p>Software Engineering Research Center, Himalaya Block-D</p>
-    <p>IIIT Hyderabad, Gachibowli, India 500032</p>
+  image_circular: false
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

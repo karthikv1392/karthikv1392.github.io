@@ -14,6 +14,16 @@
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
+          <!-- Publication Image -->
+          {%- if entry.image -%}
+          <div class="publication-image">
+            {% if entry.image contains '://' -%}
+            <img src="{{ entry.image }}" alt="{{ entry.title }}" class="pub-img">
+            {%- else -%}
+            <img src="{{ entry.image | prepend: '/assets/img/' | relative_url }}" alt="{{ entry.title }}" class="pub-img">
+            {%- endif %}
+          </div>
+          {%- endif %}
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
@@ -91,53 +101,83 @@
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="abstract btn btn-sm z-depth-0" role="button" title="Abstract">
+              <i class="fas fa-file-alt"></i> Abstract
+            </a>
           {%- endif %}
           {%- if entry.arxiv %}
-            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" title="arXiv">
+              <i class="fas fa-external-link-alt"></i> arXiv
+            </a>
           {%- endif %}
           {%- if entry.bibtex_show %}
-            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button" title="BibTeX">
+              <i class="fas fa-code"></i> BibTeX
+            </a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" title="HTML Version">
+              <i class="fas fa-globe"></i> HTML
+            </a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
-            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" title="PDF Download">
+              <i class="fas fa-file-pdf"></i> PDF
+            </a>
             {%- else -%}
-            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="PDF Download">
+              <i class="fas fa-file-pdf"></i> PDF
+            </a>
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
-            <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
+            <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button" title="Supplementary Material">
+              <i class="fas fa-file-archive"></i> Supp
+            </a>
             {%- else -%}
-            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
+            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Supplementary Material">
+              <i class="fas fa-file-archive"></i> Supp
+            </a>
             {%- endif %}
           {%- endif %}
           {%- if entry.blog %}
-            <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
+            <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button" title="Blog Post">
+              <i class="fas fa-blog"></i> Blog
+            </a>
           {%- endif %}
           {%- if entry.code %}
-            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" title="Source Code">
+              <i class="fab fa-github"></i> Code
+            </a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
-            <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+            <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button" title="Poster">
+              <i class="fas fa-image"></i> Poster
+            </a>
             {%- else -%}
-            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Poster">
+              <i class="fas fa-image"></i> Poster
+            </a>
             {%- endif %}
           {%- endif %}
           {%- if entry.slides %}
             {% if entry.slides contains '://' -%}
-            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button" title="Presentation Slides">
+              <i class="fas fa-presentation"></i> Slides
+            </a>
             {%- else -%}
-            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Presentation Slides">
+              <i class="fas fa-presentation"></i> Slides
+            </a>
             {%- endif %}
           {%- endif %}
           {%- if entry.website %}
-            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" title="Project Website">
+              <i class="fas fa-link"></i> Website
+            </a>
           {%- endif %}
           </div>
 
