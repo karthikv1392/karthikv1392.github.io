@@ -1,4 +1,4 @@
-#### Upcoming Events
+#### Upcoming Events/Talks
 
 - **Engineering Agentic AI Online Course**
   _Online Course on Engineering Agentic AI from IIIT Hyderabad_
