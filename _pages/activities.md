@@ -12,7 +12,12 @@ I have been involved as a co-chair/organizing committee member/program committee
 __2026__
 
   1. PC Member, [48th International Conference on Software Engineering (ICSE) 2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
-  
+  2. Workshop Co-chair, [10th International Workshop on Green and Sustainable Software (GREENS’26)](https://greensworkshop.github.io/)
+  3. Industry Track Co-chair, [5th International Conference on AI Engineering, CAIN 2026](https://conf.researchr.org/track/cain-2026/cain-2026-industry-track)
+  4. New and Emerging Ideas Track Co-chair, [23rd IEEE International Conference on Software Architecture (ICSA) 2026](https://conf.researchr.org/home/icsa-2026)
+  5. Tools and Demos Track Co-Chair, [20th European Conference on Software Architecture, ECSA 2026](https://conf.researchr.org/home/icsa-2026)
+
+
 __2025__
 
   1. Track Co-Chair, SA-TTA 2025 [The 40th ACM/SIGAPP Symposium On Applied Computing](https://www.sigapp.org/sac/sac2025/)
