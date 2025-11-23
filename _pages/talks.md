@@ -11,9 +11,10 @@ nav: true
 ## 2025
 
 - **Uber GenAI Meetup 2025**
-  _Panelist, on Adopting the Fast Emerging Tech, Uber GenAI Meetup 2025, Uber, Hyderabad _
+  _Panelist, on Adopting the Fast Emerging Tech, Uber GenAI Meetup 2025, Uber, Hyderabad_
   November 2025
   [Website](https://pages.beamery.com/uber/page/uber-gen-ai-meetup-2025-nyojuscvut)
+  [Post from Uber Engineering](https://www.linkedin.com/posts/uberengineering_uberengineering-genai-techmeetup-activity-7396730219312812032-_jbL)
 
 - **Generative AI in Software Engineering: Perspectives from Research**
   _Invited Talk, AI for Software Lifecycle event Organized by ThinkWise, Hyderabad_
@@ -41,6 +42,7 @@ nav: true
   _Tutorial, 19th European Conference on Software Architecture (ECSA) 2025, Cyprus_
   September 2025
   [Website](https://agentic-sa.vercel.app/)
+  A blog article on this can be found [here](https://www.linkedin.com/pulse/gratitude-my-ecsa-2025-experience-karthik-vaidhyanathan-wmcpc/?trackingId=Zf9bODMvTNPWviqbyMPoCA%3D%3D)
 
 - **Engineering Agentic AI: From Concepts to Practice**
   _Invited Speaker, Nasscom Tech Developer Confluence 2025, Bangalore, India_
