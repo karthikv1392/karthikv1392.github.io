@@ -1,5 +1,12 @@
 #### Upcoming Events/Talks
 
+- **Invited Keynote on Sustainable AI Systems and Fire side chat on AI Hype Vs Hope @ PSG Tech**
+  _Keynote talk on Engineering Sustainable AI-Enabled Systems @ PSG Tech_
+  _Speaker for the Fire side chat on AI - Hype, Hope and Human Impact_
+  December 2026
+  Looking forward to the talk as well as the panel discussion at PSG Tech, Coimbatore, India on 22 December as part of the AI Spectrum event
+  [Website](https://aiconsortium.psgtech.ac.in/aispectrum/)
+
 - **Engineering Agentic AI Online Course**
   _Online Course on Engineering Agentic AI from IIIT Hyderabad_
   January 2026
