@@ -1,0 +1,9 @@
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.1"
+  JEKYLL_ENV = "production"
+  # Prevents jekyll-github-metadata from failing when not running on GitHub Actions
+  PAGES_REPO_NWO = "karthikv1392/karthikv1392.github.io"
