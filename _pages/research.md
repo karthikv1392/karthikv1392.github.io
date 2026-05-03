@@ -50,12 +50,10 @@ The above research has resulted in some initial publications. You can find the d
 ### More Information
 For more information on my research and for details regarding vaccancies, please visit my research group website - [SA4S@SERC](https://sa4s-serc.github.io)
 
-A big thanks to all my past and present collaborators who all have helped me to improve my research and personal skills.
+A big thanks to all my past and present collaborators who all have helped me to improve my research and personal skills. In particular I would like to thank the following people who helped me shape my research career during my PhD.
 
   1. Prof. Henry Muccini, Full Professor, University of L’Aquila, Italy (Supervisor)
   2. Dr. Javier Camara, Associate Professor, University of Malaga, Spain
   3. Prof. Mauro Caporuscio, Full Professor, Linneaus University, Sweden
   4. Dr. Martina De Sanctis, Assistant Professor, Gran Sasso Science Institute, Italy
   5. Dr. Mahyar Mogahaddam, Assistant Professor, University of Southern Denmark (SDU), Denmark
-  6. Dr. Guilia De Masi, Principal Scientist, Technology Innovation Institute (TII), Abu Dhabi, UAE
-  7. Dr. Bradley Schmerl, Principal Systems Scientist, Carnengie Mellon University (CMU), USA

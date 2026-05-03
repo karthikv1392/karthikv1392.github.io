@@ -9,13 +9,24 @@ _"Science is a collaborative effort"_  - John Bardeen
 
 I have been involved as a co-chair/organizing committee member/program committee member/reviewer/student volunteer/organizer of various high impact conferences, workshops, journals and many other events.
 
+
+__2027__
+  1. Proceedings Co-Chair, [49th ACM/IEEE International Conference on Software Engineering (ICSE) 2027](https://conf.researchr.org/home/icse-2027)
+
+
 __2026__
 
   1. PC Member, [48th International Conference on Software Engineering (ICSE) 2026](https://conf.researchr.org/track/icse-2026/icse-2026-research-track)
   2. Workshop Co-chair, [10th International Workshop on Green and Sustainable Software (GREENS’26)](https://greensworkshop.github.io/)
   3. Industry Track Co-chair, [5th International Conference on AI Engineering, CAIN 2026](https://conf.researchr.org/track/cain-2026/cain-2026-industry-track)
-  4. New and Emerging Ideas Track Co-chair, [23rd IEEE International Conference on Software Architecture (ICSA) 2026](https://conf.researchr.org/home/icsa-2026)
-  5. Tools and Demos Track Co-Chair, [20th European Conference on Software Architecture, ECSA 2026](https://conf.researchr.org/home/icsa-2026)
+  4. Organization Co-Chair, [1st Seminar on AI Agents in Software Engineering, A2SE](https://sites.google.com/view/a2se2026/home)
+  5. New and Emerging Ideas Track Co-chair, [23rd IEEE International Conference on Software Architecture (ICSA) 2026](https://conf.researchr.org/home/icsa-2026)
+  6. General Co-Chair, [Software Engineering Reserch Update Meetings in India (SERI) 2026](https://conf.researchr.org/home/seri-2026)
+  7. Tools and Demos Track Co-Chair, [20th European Conference on Software Architecture, ECSA 2026](https://conf.researchr.org/home/ecsa-2026)
+  8. PC Member, Registered Reports Track, [20th European Conference on Software Architecture, ECSA 2026](https://conf.researchr.org/home/ecsa-2026)
+  9. Workshop Co-chair, [ASISAS - Architecting Secure, Intelligent, and Sovereign Agentic Systems](https://conf.researchr.org/track/ecsa-2026/asisas-2026)
+  10. PC Member, [20th European Conference on Software Architecture, ECSA 2026](https://conf.researchr.org/home/ecsa-2026)
+  11. PC Member,  [23rd IEEE International Conference on Software Architecture (ICSA) 2026](https://conf.researchr.org/home/icsa-2026)
 
 
 __2025__
