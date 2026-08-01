@@ -106,7 +106,7 @@ nav: true
 - **GenAI for Software Engineering: Perspectives from Research to Practice**  
   _NLP and LLM Course, IIIT Kottayam_  
   October 2024  
-  [Slides](/assets/pdf/GenAI_SE_IIITK.pdf)
+  [Slides](https://www.dropbox.com/scl/fi/wz2jobnr07n3tq0ou5dl2/GenAI_SE_IIITK.pdf?rlkey=iblggxo8c97cjki8q5a3fkn3i&st=attjw9i7&dl=0)
 
 - **Playing with Abstractions: Can GenAI be Software Architects Best Friend?**  
   _Quick Heal Masterclass Series_  
