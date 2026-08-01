@@ -2,7 +2,7 @@
 layout: page
 title: SA4S
 description: Architecture-based approach for sustainable data intensive software systems
-img: assets/img/sa4s.png
+img: assets/img/sa4s.jpg
 importance: 2
 category: work
 role: PI

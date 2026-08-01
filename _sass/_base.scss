@@ -487,7 +487,16 @@ footer.sticky-bottom {
     }
   }
 
-  .grid-sizer,
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .grid-sizer {
+    display: none;
+  }
+
   .grid-item {
     width: 250px;
     margin-bottom: 10px;

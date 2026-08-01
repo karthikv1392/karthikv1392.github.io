@@ -2,7 +2,7 @@
 layout: page
 title: Model Switching
 description: Enhancing Sustainability at the Edge using model Swtiching
-img: assets/img/ai_edge.png
+img: assets/img/ai_edge.jpg
 importance: 2
 category: work
 role: PI

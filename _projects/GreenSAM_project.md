@@ -2,7 +2,7 @@
 layout: page
 title: GreenSAM - Approach for Greening Software Deployments
 description: Development of approaches, frameworks and tools for greening software deployments
-img: assets/img/greensam.png
+img: assets/img/greensam.jpg
 importance: 2
 category: work
 role: PI

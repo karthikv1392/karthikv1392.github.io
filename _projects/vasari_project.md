@@ -2,7 +2,7 @@
 layout: page
 title: VASARI
 description: Italian Smart Art Experience
-img: assets/img/vasari.png
+img: assets/img/vasari.jpg
 importance: 1
 category: work
 ---

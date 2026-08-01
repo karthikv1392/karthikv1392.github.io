@@ -2,7 +2,7 @@
 layout: page
 title: SustAInd
 description: A Software Centric Framework For Sustainable AI Systems
-img: assets/img/sa4s.png
+img: assets/img/sa4s.jpg
 importance: 2
 category: work
 role: PI

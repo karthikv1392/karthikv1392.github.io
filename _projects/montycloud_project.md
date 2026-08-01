@@ -2,7 +2,7 @@
 layout: page
 title: Agentic CloudOps
 description: Development of Agentic AI powered Autonomous CloudOps
-img: assets/img/cloudops.png
+img: assets/img/cloudops.jpg
 importance: 2
 category: work
 role: PI
