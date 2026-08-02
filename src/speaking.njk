@@ -1,0 +1,53 @@
+---
+layout: layouts/base.njk
+title: Speaking
+description: Talks, tutorials, workshops, and academic events with Karthik Vaidhyanathan.
+---
+<header class="page-hero shell">
+  <p class="eyebrow">Speaking</p>
+  <h1>Making software architecture and AI engineering discussable.</h1>
+  <p class="lede">I speak with academic and industry audiences about architectural decision-making, AI-enabled systems, agentic software, and sustainability.</p>
+</header>
+
+<section class="section shell section-rule">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Formats</p>
+      <h2>Talks that create a shared language.</h2>
+    </div>
+  </div>
+  <ul class="format-list">
+    <li><strong>Keynotes and invited talks</strong><span>Research-informed perspectives for broad technical audiences.</span></li>
+    <li><strong>Tutorials</strong><span>Structured learning around architecture for generative and agentic AI.</span></li>
+    <li><strong>Workshops</strong><span>Participatory sessions centered on real design decisions and trade-offs.</span></li>
+    <li><strong>Panels</strong><span>Cross-disciplinary conversations connecting research and practice.</span></li>
+  </ul>
+</section>
+
+<section class="section shell section-rule">
+  <div class="section-heading compact-heading">
+    <div>
+      <p class="eyebrow">Recent appearances</p>
+      <h2>Selected events</h2>
+    </div>
+  </div>
+  <ol class="appearance-list">
+    {% for appearance in appearances %}
+      <li>
+        <p class="appearance-date">{{ appearance.date }}</p>
+        <div>
+          <p class="appearance-role">{{ appearance.role }}</p>
+          <h3>{{ appearance.title }}</h3>
+          <p>{{ appearance.place }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+  <p class="archive-link"><a class="button button-secondary" href="/talks/">Browse the complete talks archive</a></p>
+</section>
+
+<section class="closing shell">
+  <p class="eyebrow">Speaking invitation</p>
+  <h2>Tell me about your audience and the conversation you want to begin.</h2>
+  <a class="button button-primary" href="mailto:{{ site.email }}?subject=Speaking%20invitation">Invite Karthik</a>
+</section>

@@ -1,0 +1,34 @@
+---
+pagination:
+  data: projects
+  size: 1
+  alias: project
+layout: layouts/base.njk
+permalink: "/projects/{{ project.slug }}/"
+eleventyComputed:
+  title: "{{ project.title }}"
+  description: "{{ project.description }}"
+---
+{% include "partials/related-work-nav.njk" %}
+<header class="page-hero page-hero-compact shell">
+  <p class="eyebrow">{{ project.role }}</p>
+  <h1>{{ project.title }}</h1>
+  <p class="lede">{{ project.description }}</p>
+</header>
+<section class="section shell section-rule project-detail">
+  <div>
+    <p class="eyebrow">Project overview</p>
+    <h2>Architecture, evidence, and collaboration.</h2>
+  </div>
+  <div class="long-form">
+    <p>{{ project.details }}</p>
+    <p><strong>Context:</strong> {{ project.collaboration }}</p>
+    {% if project.team.length %}
+      <h3>Team members named on the current site</h3>
+      <ul>
+        {% for member in project.team %}<li>{{ member }}</li>{% endfor %}
+      </ul>
+    {% endif %}
+    {% if project.url %}<p><a class="button button-secondary" href="{{ project.url }}">Visit project resource <span aria-hidden="true">↗</span></a></p>{% endif %}
+  </div>
+</section>

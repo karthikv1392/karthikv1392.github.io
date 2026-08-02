@@ -1,0 +1,1012 @@
+[
+  {
+    "key": "DBLP:journals/corr/abs-2605-11720",
+    "type": "article",
+    "year": "2026",
+    "title": "A Research Agenda on Agents and Software Engineering: Outcomes from the Rio A2SE Seminar",
+    "authors": "Davide Taibi, Henry Muccini, Karthik Vaidhyanathan, Marcos Kalinowski, Michele Albano, Antonio Pedro Santos Alves, Renato Cerqueira, Mateus Devino, Matteo Esposito, Rodrigo Falcão, Vinicius Henning, Foutse Khomh, Valentina Lenarduzzi, Qinghua Lu, Matías Martínez, Henrique Mello, Daniel Méndez, Lucas Cordeiro Romão",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2605.11720",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/software/VaidhyanathanT26",
+    "type": "article",
+    "year": "2026",
+    "title": "Agentic AI Frameworks Under the Microscope: What Works, What Doesn't",
+    "authors": "Karthik Vaidhyanathan, Davide Taibi",
+    "venue": "IEEE Softw.",
+    "url": "https://doi.org/10.1109/MS.2025.3622209",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2602-04445",
+    "type": "article",
+    "year": "2026",
+    "title": "AgenticAKM : Enroute to Agentic Architecture Knowledge Management",
+    "authors": "Rudra Dhar, Karthik Vaidhyanathan, Vasudeva Varma",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2602.04445",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2603-17833",
+    "type": "article",
+    "year": "2026",
+    "title": "ArchBench: Benchmarking Generative-AI for Software Architecture Tasks",
+    "authors": "Bassam Adnan, Aviral Gupta, Sreemaee Akshathala, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2603.17833",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2601-06456",
+    "type": "article",
+    "year": "2026",
+    "title": "Architecting AgentOps Needs CHANGE",
+    "authors": "Shaunak Biswas, Hiya Bhatt, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2601.06456",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/software/Vaidhyanathan26b",
+    "type": "article",
+    "year": "2026",
+    "title": "Architecture in Practice: Scale, Latency, Decisions, and Change: A Multi-Episode SE Radio Digest",
+    "authors": "Karthik Vaidhyanathan",
+    "venue": "IEEE Softw.",
+    "url": "https://doi.org/10.1109/MS.2026.3662845",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/agent/AkshathalaARVMP26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems",
+    "authors": "Sreemaee Akshathala, Bassam Adnan, Mahisha Ramesh, Karthik Vaidhyanathan, Basil Muhammed, Kannan Parthasarathy",
+    "venue": "Proceedings of the 2026 International Workshop on Agentic Engineering, AGENT 2026, Rio de Janeiro, Brazil, April 12-18, 2026",
+    "url": "https://doi.org/10.1145/3786167.3788414",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/seams/JainPV26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "CALM: A Self-Adaptive Orchestration Approach for QoS-Aware Routing in Small Language Model based Systems",
+    "authors": "Hemang Jain, Divyansh Pandey, Karthik Vaidhyanathan",
+    "venue": "Proceedings of the 21st International Conference on Software Engineering for Adaptive and Self-Managing Systems, SEAMS 2026, Rio de Janeiro, Brazil, April 13-14, 2026",
+    "url": "https://doi.org/10.1145/3788550.3794880",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2602-03632",
+    "type": "article",
+    "year": "2026",
+    "title": "CALM: A Self-Adaptive Orchestration Approach for QoS-Aware Routing in Small Language Model based Systems",
+    "authors": "Hemang Jain, Divyansh Pandey, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2602.03632",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/AdnanETV26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "Can AI Agents Generate Microservices? How Far are We?",
+    "authors": "Bassam Adnan, Matteo Esposito, Davide Taibi, Karthik Vaidhyanathan",
+    "venue": "23rd IEEE International Conference on Software Architecture, ICSA 2026, Amsterdam, Netherlands, June 22-26, 2026",
+    "url": "https://doi.org/10.1109/ICSA66085.2026.00008",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2603-09004",
+    "type": "article",
+    "year": "2026",
+    "title": "Can AI Agents Generate Microservices? How Far are We?",
+    "authors": "Bassam Adnan, Matteo Esposito, Davide Taibi, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2603.09004",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2604-03826",
+    "type": "article",
+    "year": "2026",
+    "title": "Context Matters: Evaluating Context Strategies for Automated ADR Generation Using LLMs",
+    "authors": "Aviral Gupta, Rudra Dhar, Daniel Feitosa, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2604.03826",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2605-00504",
+    "type": "article",
+    "year": "2026",
+    "title": "EnCoDe: Energy Estimation of Source Code At Design-Time",
+    "authors": "Shailender Goyal, Akhila Matathammal, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2605.00504",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/software/Vaidhyanathan26",
+    "type": "article",
+    "year": "2026",
+    "title": "From AI Assistants to Secure by Design: A Multi-Episode SE Radio Digest",
+    "authors": "Karthik Vaidhyanathan",
+    "venue": "IEEE Softw.",
+    "url": "https://doi.org/10.1109/MS.2025.3621022",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/software/Vaidhyanathan26c",
+    "type": "article",
+    "year": "2026",
+    "title": "From Enterprise Backbone to Developer Workbench: Engineering Rigor in the Age of AI",
+    "authors": "Karthik Vaidhyanathan",
+    "venue": "IEEE Softw.",
+    "url": "https://doi.org/10.1109/MS.2026.3683181",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/jss/EspositoLMACVLT26",
+    "type": "article",
+    "year": "2026",
+    "title": "Generative AI for software architecture. Applications, challenges, and future directions",
+    "authors": "Matteo Esposito, Xiaozhou Li, Sergio Moreschini, Noman Ahmad, Tomás Cerný, Karthik Vaidhyanathan, Valentina Lenarduzzi, Davide Taibi",
+    "venue": "J. Syst. Softw.",
+    "url": "https://doi.org/10.1016/j.jss.2025.112607",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/seams/HalgattiBBRV26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "Harmonica: A Self-Adaptation Exemplar for Sustainable MLOps",
+    "authors": "Ananya Vishal Halgatti, Shaunak Biswas, Hiya Bhatt, Srinivasan Rakhunathan, Karthik Vaidhyanathan",
+    "venue": "Proceedings of the 21st International Conference on Software Engineering for Adaptive and Self-Managing Systems, SEAMS 2026, Rio de Janeiro, Brazil, April 13-14, 2026",
+    "url": "https://doi.org/10.1145/3788550.3794941",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2601-11926",
+    "type": "article",
+    "year": "2026",
+    "title": "Harmonica: A Self-Adaptation Exemplar for Sustainable MLOps",
+    "authors": "Ananya Vishal Halgatti, Shaunak Biswas, Hiya Bhatt, Srinivasan Rakhunathan, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2601.11926",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/software/SinghalBVMHKKC26",
+    "type": "article",
+    "year": "2026",
+    "title": "LEAF: A Layered Emission Assessment Framework for Cloud Deployments",
+    "authors": "Prakhar Singhal, Shaunak Biswas, Karthik Vaidhyanathan, Akhila Matathammal, Ch Pavan Harshit, Ravi Kappagantu, Srinivas V. Katakam, Jitendra Chougala",
+    "venue": "IEEE Softw.",
+    "url": "https://doi.org/10.1109/MS.2025.3637338",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/SathvikaDV26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "LLM-based Automated Architecture View Generation: Where Are We Now?",
+    "authors": "Miryala Sathvika, Rudra Dhar, Karthik Vaidhyanathan",
+    "venue": "23rd IEEE International Conference on Software Architecture, ICSA 2026, Amsterdam, Netherlands, June 22-26, 2026",
+    "url": "https://doi.org/10.1109/ICSA66085.2026.00031",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2603-21178",
+    "type": "article",
+    "year": "2026",
+    "title": "LLM-based Automated Architecture View Generation: Where Are We Now?",
+    "authors": "Sathvika Miryala, Rudra Dhar, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2603.21178",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/SambuCOVM26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "LLMs for Architectural Refactoring: An Exploratory Study on Monoliths to Microservices",
+    "authors": "Aneesh Sambu, Roberta Capuano, Eoan O'Dea, Karthik Vaidhyanathan, Henry Muccini",
+    "venue": "23rd IEEE International Conference on Software Architecture, ICSA 2026, Amsterdam, Netherlands, June 22-26, 2026",
+    "url": "https://doi.org/10.1109/ICSA66085.2026.00033",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/seams/PandeyGSV26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "POLARIS: Is Multi-Agentic Reasoning the Next Wave in Engineering Self-Adaptive Systems?",
+    "authors": "Divyansh Pandey, Vyakhya Gupta, Prakhar Singhal, Karthik Vaidhyanathan",
+    "venue": "Proceedings of the 21st International Conference on Software Engineering for Adaptive and Self-Managing Systems, SEAMS 2026, Rio de Janeiro, Brazil, April 13-14, 2026",
+    "url": "https://doi.org/10.1145/3788550.3794881",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/agent/TripathyHV26",
+    "type": "inproceedings",
+    "year": "2026",
+    "title": "SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs",
+    "authors": "Arihant Tripathy, Ch Pavan Harshit, Karthik Vaidhyanathan",
+    "venue": "Proceedings of the 2026 International Workshop on Agentic Engineering, AGENT 2026, Rio de Janeiro, Brazil, April 12-18, 2026",
+    "url": "https://doi.org/10.1145/3786167.3788406",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/software/Vaidhyanathan26a",
+    "type": "article",
+    "year": "2026",
+    "title": "The Agentic Shift: A Four-Episode Journey into Tool-Using LLMs, Secure Context, and AI-Driven Engineering",
+    "authors": "Karthik Vaidhyanathan",
+    "venue": "IEEE Softw.",
+    "url": "https://doi.org/10.1109/MS.2025.3646009",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2601-14132",
+    "type": "article",
+    "year": "2026",
+    "title": "Toward self-coding information systems",
+    "authors": "Rodrigo Falcão, Frank Elberzhager, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2601.14132",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2606-10702",
+    "type": "article",
+    "year": "2026",
+    "title": "Watts and Debts of Agentic Frameworks: An Empirical Study (Registered Report)",
+    "authors": "Aneetta Sara Shany, Chandrasekar S, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2606.10702",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2511-23009",
+    "type": "article",
+    "year": "2025",
+    "title": "APDT: A Digital Twin for Assessing Access Point Characteristics in a Network",
+    "authors": "D. Sree Yashaswinee, Gargie Tambe, Y. Raghu Reddy, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2511.23009",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2501-17028",
+    "type": "article",
+    "year": "2025",
+    "title": "Approach Towards Semi-Automated Certification for Low Criticality ML-Enabled Airborne Applications",
+    "authors": "Chandrasekar Sridhar, Vyakhya Gupta, Prakhar Jain, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2501.17028",
+    "selected": true
+  },
+  {
+    "key": "DBLP:conf/cain/SridharGJV25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "Approach Towards Semi-Automated Certification of Low Criticality ML-Enabled Airborne Applications",
+    "authors": "Chandrasekar Sridhar, Vyakhya Gupta, Prakhar Jain, Karthik Vaidhyanathan",
+    "venue": "4th IEEE/ACM International Conference on AI Engineering - Software Engineering for AI, CAIN 2025, Ottawa, ON, Canada, April 27-28, 2025",
+    "url": "https://doi.org/10.1109/CAIN66642.2025.00020",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/Bhatt0VBGTS25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "Architecting Digital Twins for Intelligent Transportation Systems",
+    "authors": "Hiya Bhatt, Sahil, Karthik Vaidhyanathan, Rahul Biju, Deepak Gangadharan, Ramona Trestian, Purav Shah",
+    "venue": "22nd IEEE International Conference on Software Architecture, ICSA - Companion, Odense, Denmark, March 31 - April 4, 2025",
+    "url": "https://doi.org/10.1109/ICSA-C65153.2025.00041",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2502-17646",
+    "type": "article",
+    "year": "2025",
+    "title": "Architecting Digital Twins for Intelligent Transportation Systems",
+    "authors": "Hiya Bhatt, Sahil, Karthik Vaidhyanathan, Rahul Biju, Deepak Gangadharan, Ramona Trestian, Purav Shah",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2502.17646",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2512-12791",
+    "type": "article",
+    "year": "2025",
+    "title": "Beyond Task Completion: An Assessment Framework for Evaluating Agentic AI Systems",
+    "authors": "Sreemaee Akshathala, Bassam Adnan, Mahisha Ramesh, Karthik Vaidhyanathan, Basil Muhammed, Kannan Parthasarathy",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2512.12791",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2510-02810",
+    "type": "article",
+    "year": "2025",
+    "title": "Dissecting Transformers: A CLEAR Perspective towards Green AI",
+    "authors": "Hemang Jain, Shailender Goyal, Divyansh Pandey, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2510.02810",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2504-08207",
+    "type": "article",
+    "year": "2025",
+    "title": "DRAFT-ing Architectural Design Decisions using LLMs",
+    "authors": "Rudra Dhar, Adyansh Kakran, Amey Karan, Karthik Vaidhyanathan, Vasudeva Varma",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2504.08207",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/MatathammalGLHG25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "EdgeMLBalancer: A Self-Adaptive Approach for Dynamic Model Switching on Resource-Constrained Edge Devices",
+    "authors": "Akhila Matathammal, Kriti Gupta, Larissa Lavanya, Ananya Vishal Halgatti, Priyanshi Gupta, Karthik Vaidhyanathan",
+    "venue": "22nd IEEE International Conference on Software Architecture, ICSA - Companion, Odense, Denmark, March 31 - April 4, 2025",
+    "url": "https://doi.org/10.1109/ICSA-C65153.2025.00081",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2502-06493",
+    "type": "article",
+    "year": "2025",
+    "title": "EdgeMLBalancer: A Self-Adaptive Approach for Dynamic Model Switching on Resource-Constrained Edge Devices",
+    "authors": "Akhila Matathammal, Kriti Gupta, Larissa Lavanya, Ananya Vishal Halgatti, Priyanshi Gupta, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2502.06493",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/access/KandalaGWASCVCBKH25",
+    "type": "article",
+    "year": "2025",
+    "title": "Engineering End-to-End Remote Labs Using IoT-Based Retrofitting",
+    "authors": "Savitha Viswanadh Kandala, Akshit Gureja, Nagesh Walchatwar, Rishabh Agrawal, Shiven Sinha, Sachin Chaudhari, Karthik Vaidhyanathan, Venkatesh Choppella, Prabhakar Bhimalapuram, Harikumar Kandath, Aftab M. Hussain",
+    "venue": "IEEE Access",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3523066",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2501-08243",
+    "type": "article",
+    "year": "2025",
+    "title": "Engineering LLM Powered Multi-agent Framework for Autonomous CloudOps",
+    "authors": "Kannan Parthasarathy, Karthik Vaidhyanathan, Rudra Dhar, Venkat Krishnamachari, Basil Muhammed, Adyansh Kakran, Sreemaee Akshathala, Shrikara Arun, Sumant Dubey, Mohan Veerubhotla, Amey Karan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2501.08243",
+    "selected": true
+  },
+  {
+    "key": "DBLP:conf/cain/ParthasarathyVDKKAAKMDV25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "Engineering LLM Powered Multi-Agent Framework for Autonomous CloudOps",
+    "authors": "Kannan Parthasarathy, Karthik Vaidhyanathan, Rudra Dhar, Venkat Krishnamachari, Adyansh Kakran, Sreemaee Akshathala, Shrikara Arun, Amey Karan, Basil Muhammed, Sumant Dubey, Mohan Veerubhotla",
+    "venue": "4th IEEE/ACM International Conference on AI Engineering - Software Engineering for AI, CAIN 2025, Ottawa, ON, Canada, April 27-28, 2025",
+    "url": "https://doi.org/10.1109/CAIN66642.2025.00031",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2509-10099",
+    "type": "article",
+    "year": "2025",
+    "title": "Generating Energy-Efficient Code via Large-Language Models - Where are we now?",
+    "authors": "Radu Apsan, Vincenzo Stoico, Michel Albonico, Rudra Dhar, Karthik Vaidhyanathan, Ivano Malavolta",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2509.10099",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2503-13310",
+    "type": "article",
+    "year": "2025",
+    "title": "Generative AI for Software Architecture. Applications, Trends, Challenges, and Future Directions",
+    "authors": "Matteo Esposito, Xiaozhou Li, Sergio Moreschini, Noman Ahmad, Tomás Cerný, Karthik Vaidhyanathan, Valentina Lenarduzzi, Davide Taibi",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2503.13310",
+    "selected": false
+  },
+  {
+    "key": "DBLP:data/11/EspositoLMACVLT25",
+    "type": "misc",
+    "year": "2025",
+    "title": "Generative AI for Software Architecture. Applications, Trends, Challenges, and Future Directions (Version 1)",
+    "authors": "Matteo Esposito, Xiaozhou Li, Sergio Moreschini, Noman Ahmad, Tomás Cerný, Karthik Vaidhyanathan, Valentina Lenarduzzi, Davide Taibi",
+    "venue": "Zenodo",
+    "url": "https://doi.org/10.5281/zenodo.15032396",
+    "selected": false
+  },
+  {
+    "key": "DBLP:data/11/EspositoLMACVLT25a",
+    "type": "misc",
+    "year": "2025",
+    "title": "Generative AI for Software Architecture. Applications, Trends, Challenges, and Future Directions (Version 2)",
+    "authors": "Matteo Esposito, Xiaozhou Li, Sergio Moreschini, Noman Ahmad, Tomás Cerný, Karthik Vaidhyanathan, Valentina Lenarduzzi, Davide Taibi",
+    "venue": "Zenodo",
+    "url": "https://doi.org/10.5281/zenodo.16791899",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2506-01774",
+    "type": "article",
+    "year": "2025",
+    "title": "Greening AI-enabled Systems with Software Engineering: A Research Agenda for Environmentally Sustainable AI Practices",
+    "authors": "Luis Cruz, João Paulo Fernandes, Maja H. Kirkeby, Silverio Martínez-Fernández, June Sallou, Hina Anwar, Enrique Barba Roque, Justus Bogner, Joel Castaño, Fernando Castor, Aadil Chasmawala, Simão Cunha, Daniel Feitosa, Alexandra González, Andreas Jedlitschka, Patricia Lago, Henry Muccini, Ana Oprescu, Pooja Rani, João Saraiva, Federica Sarro, Raghavendra Selvan, Karthik Vaidhyanathan, Roberto Verdecchia, Ivan P. Yamshchikov",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2506.01774",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/ecsa/BhattBRV25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "HarmonE: A Self-adaptive Approach to Architecting Sustainable MLOps",
+    "authors": "Hiya Bhatt, Shaunak Biswas, Srinivasan Rakhunathan, Karthik Vaidhyanathan",
+    "venue": "Software Architecture - 19th European Conference, ECSA 2025, Limassol, Cyprus, September 15-19, 2025, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-032-02138-0\\_3",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2505-13693",
+    "type": "article",
+    "year": "2025",
+    "title": "HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps",
+    "authors": "Hiya Bhatt, Shaunak Biswas, Srinivasan Rakhunathan, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2505.13693",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2502-00689",
+    "type": "article",
+    "year": "2025",
+    "title": "Leveraging LLMs for Dynamic IoT Systems Generation through Mixed-Initiative Interaction",
+    "authors": "Bassam Adnan, Sathvika Miryala, Aneesh Sambu, Karthik Vaidhyanathan, Martina De Sanctis, Romina Spalazzese",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2502.00689",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/AdnanMSVSS25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "Leveraging LLMs for Dynamic IoT Systems Generation Through Mixed-Initiative Interaction",
+    "authors": "Bassam Adnan, Sathvika Miryala, Aneesh Sambu, Karthik Vaidhyanathan, Martina De Sanctis, Romina Spalazzese",
+    "venue": "22nd IEEE International Conference on Software Architecture, ICSA - Companion, Odense, Denmark, March 31 - April 4, 2025",
+    "url": "https://doi.org/10.1109/ICSA-C65153.2025.00073",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/ArunTV25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World",
+    "authors": "Shrikara Arun, Meghana Tedla, Karthik Vaidhyanathan",
+    "venue": "22nd IEEE International Conference on Software Architecture, ICSA 2025, Odense, Denmark, March 31 - April 4, 2025",
+    "url": "https://doi.org/10.1109/ICSA65012.2025.00013",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2502-02539",
+    "type": "article",
+    "year": "2025",
+    "title": "LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World",
+    "authors": "Shrikara Arun, Meghana Tedla, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2502.02539",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/cain/MaddireddyMSV25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "LoCoML: A Framework for Real-World ML Inference Pipelines",
+    "authors": "Kritin Maddireddy, Santhosh Kotekal Methukula, Chandrasekar Sridhar, Karthik Vaidhyanathan",
+    "venue": "4th IEEE/ACM International Conference on AI Engineering - Software Engineering for AI, CAIN 2025, Ottawa, ON, Canada, April 27-28, 2025",
+    "url": "https://doi.org/10.1109/CAIN66642.2025.00017",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2501-14165",
+    "type": "article",
+    "year": "2025",
+    "title": "LoCoML: A Framework for Real-World ML Inference Pipelines",
+    "authors": "Kritin Maddireddy, Santhosh Kotekal Methukula, Chandrasekar Sridhar, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2501.14165",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/simultech/ZechVKRB25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "Modeling and Simulating IoT Infrastructures",
+    "authors": "Philipp Zech, Karthik Vaidhyanathan, Likhith Kanigolla, Luca Rahm, Ruth Breu",
+    "venue": "Proceedings of the 15th International Conference on Simulation and Modeling Methodologies, Technologies and Applications, SIMULTECH 2025, Bilbao, Spain, June 11-13, 2025",
+    "url": "https://doi.org/10.5220/0013557400003970",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2512-04702",
+    "type": "article",
+    "year": "2025",
+    "title": "POLARIS: Is Multi-Agentic Reasoning the Next Wave in Engineering Self-Adaptive Systems?",
+    "authors": "Divyansh Pandey, Vyakhya Gupta, Prakhar Singhal, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2512.04702",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2508-06243",
+    "type": "article",
+    "year": "2025",
+    "title": "SCAR: State-Space Compression for AI-Driven Resource Management in 6G-Enabled Vehicular Infotainment Systems",
+    "authors": "Ioan-Sorin Comsa, Purav Shah, Karthik Vaidhyanathan, Deepak Gangadharan, Christof Imhof, Per Bergamin, Aryan Kaushik, Gabriel-Miro Muntean, Ramona Trestian",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2508.06243",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/ease/KavathekarDKV25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "Small Models, Big Tasks: An Exploratory Empirical Study on Small Language Models for Function Calling",
+    "authors": "Ishan Kavathekar, Raghav Donakanti, Ponnurangam Kumaraguru, Karthik Vaidhyanathan",
+    "venue": "Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering, EASE 2025, Istanbul, Turkey, June 17-20, 2025",
+    "url": "https://doi.org/10.1145/3756681.3757001",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2504-19277",
+    "type": "article",
+    "year": "2025",
+    "title": "Small Models, Big Tasks: An Exploratory Empirical Study on Small Language Models for Function Calling",
+    "authors": "Ishan Kavathekar, Raghav Donakanti, Ponnurangam Kumaraguru, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2504.19277",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/ecsa/VaidhyanathanM25",
+    "type": "inproceedings",
+    "year": "2025",
+    "title": "Software Architecture in the Age of Agentic AI",
+    "authors": "Karthik Vaidhyanathan, Henry Muccini",
+    "venue": "Software Architecture. ECSA 2025 Tracks and Workshops - Limassol, Cyprus, September 15-19, 2025, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-032-04403-7\\_5",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2512-09543",
+    "type": "article",
+    "year": "2025",
+    "title": "SWEnergy: An Empirical Study on Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs",
+    "authors": "Arihant Tripathy, Ch Pavan Harshit, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2512.09543",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/KanigollaPVGV24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "Architecting Digital Twin for Smart City Systems: A Case Study",
+    "authors": "Likhith Kanigolla, Gaurav Pal, Karthik Vaidhyanathan, Deepak Gangadharan, Anuradha Vattem",
+    "venue": "21st IEEE International Conference on Software Architecture, ICSA 2024 - Companion, Hyderabad, India, June 4-8, 2024",
+    "url": "https://doi.org/10.1109/ICSA-C63560.2024.00061",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/DharVV24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "Can LLMs Generate Architectural Design Decisions? - An Exploratory Empirical Study",
+    "authors": "Rudra Dhar, Karthik Vaidhyanathan, Vasudeva Varma",
+    "venue": "21st IEEE International Conference on Software Architecture, ICSA 2024, Hyderabad, India, June 4-8, 2024",
+    "url": "https://doi.org/10.1109/ICSA59870.2024.00016",
+    "selected": true
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2403-01709",
+    "type": "article",
+    "year": "2024",
+    "title": "Can LLMs Generate Architectural Design Decisions? -An Exploratory Empirical study",
+    "authors": "Rudra Dhar, Karthik Vaidhyanathan, Vasudeva Varma",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2403.01709",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/TedlaKV24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "EcoMLS: A Self-Adaptation Approach for Architecting Green ML-Enabled Systems",
+    "authors": "Meghana Tedla, Shubham Kulkarni, Karthik Vaidhyanathan",
+    "venue": "21st IEEE International Conference on Software Architecture, ICSA 2024 - Companion, Hyderabad, India, June 4-8, 2024",
+    "url": "https://doi.org/10.1109/ICSA-C63560.2024.00048",
+    "selected": true
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2404-11411",
+    "type": "article",
+    "year": "2024",
+    "title": "EcoMLS: A Self-Adaptation Approach for Architecting Green ML-Enabled Systems",
+    "authors": "Meghana Tedla, Shubham Kulkarni, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2404.11411",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2402-05466",
+    "type": "article",
+    "year": "2024",
+    "title": "Engineering End-to-End Remote Labs using IoT-based Retrofitting",
+    "authors": "K. S. Viswanadh, Akshit Gureja, Nagesh Walchatwar, Rishabh Agrawal, Shiven Sinha, Sachin Chaudhari, Karthik Vaidhyanathan, Venkatesh Choppella, Prabhakar Bhimalapuram, Harikumar Kandath, Aftab M. Hussain",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2402.05466",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/PranavasriFPMVVG24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "Exploratory Study of oneM2M-Based Interoperability Architectures for IoT: A Smart City Perspective",
+    "authors": "VJS Pranavasri, Leo Francis, Gaurav Pal, Ushasri Mogadali, Anuradha Vattem, Karthik Vaidhyanathan, Deepak Gangadharan",
+    "venue": "21st IEEE International Conference on Software Architecture, ICSA 2024 - Companion, Hyderabad, India, June 4-8, 2024",
+    "url": "https://doi.org/10.1109/ICSA-C63560.2024.00009",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/DharVV24a",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "Leveraging Generative AI for Architecture Knowledge Management",
+    "authors": "Rudra Dhar, Karthik Vaidhyanathan, Vasudeva Varma",
+    "venue": "21st IEEE International Conference on Software Architecture, ICSA 2024 - Companion, Hyderabad, India, June 4-8, 2024",
+    "url": "https://doi.org/10.1109/ICSA-C63560.2024.00034",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/sac/VaidhyanathanCF24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "ML-enabled Service Discovery for Microservice Architecture: a QoS Approach",
+    "authors": "Karthik Vaidhyanathan, Mauro Caporuscio, Stefano Florio, Henry Muccini",
+    "venue": "Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing, SAC 2024, Avila, Spain, April 8-12, 2024",
+    "url": "https://doi.org/10.1145/3605098.3635942",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2410-11879",
+    "type": "article",
+    "year": "2024",
+    "title": "POSEIDON : Efficient Function Placement at the Edge using Deep Reinforcement Learning",
+    "authors": "Prakhar Jain, Prakhar Singhal, Divyansh Pandey, Giovanni Quatrocchi, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2410.11879",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsoc/JainSPQV24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "POSEIDON: Efficient Function Placement at the Edge Using Deep Reinforcement Learning",
+    "authors": "Prakhar Jain, Prakhar Singhal, Divyansh Pandey, Giovanni Quatrocchi, Karthik Vaidhyanathan",
+    "venue": "Service-Oriented Computing - 22nd International Conference, ICSOC 2024, Tunis, Tunisia, December 3-6, 2024, Proceedings, Part I",
+    "url": "https://doi.org/10.1007/978-981-96-0805-8\\_2",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/DonakantiJKV24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "Reimagining Self-Adaptation in the Age of Large Language Models",
+    "authors": "Raghav Donakanti, Prakhar Jain, Shubham Kulkarni, Karthik Vaidhyanathan",
+    "venue": "21st IEEE International Conference on Software Architecture, ICSA 2024 - Companion, Hyderabad, India, June 4-8, 2024",
+    "url": "https://doi.org/10.1109/ICSA-C63560.2024.00036",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2404-09866",
+    "type": "article",
+    "year": "2024",
+    "title": "Reimagining Self-Adaptation in the Age of Large Language Models",
+    "authors": "Raghav Donakanti, Prakhar Jain, Shubham Kulkarni, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2404.09866",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/seams/MardaKV24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "SWITCH: An Exemplar for Evaluating Self-Adaptive ML-Enabled Systems",
+    "authors": "Arya Marda, Shubham Kulkarni, Karthik Vaidhyanathan",
+    "venue": "Proceedings of the 19th International Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS 2024, Lisbon, Portugal, April 15-16, 2024",
+    "url": "https://doi.org/10.1145/3643915.3644105",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2402-06351",
+    "type": "article",
+    "year": "2024",
+    "title": "SWITCH: An Exemplar for Evaluating Self-Adaptive ML-Enabled Systems",
+    "authors": "Arya Marda, Shubham Kulkarni, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2402.06351",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/BhattAKV24",
+    "type": "inproceedings",
+    "year": "2024",
+    "title": "Towards Architecting Sustainable MLOps: A Self-Adaptation Approach",
+    "authors": "Hiya Bhatt, Shrikara Arun, Adyansh Kakran, Karthik Vaidhyanathan",
+    "venue": "21st IEEE International Conference on Software Architecture, ICSA 2024 - Companion, Hyderabad, India, June 4-8, 2024",
+    "url": "https://doi.org/10.1109/ICSA-C63560.2024.00038",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2404-04572",
+    "type": "article",
+    "year": "2024",
+    "title": "Towards Architecting Sustainable MLOps: A Self-Adaptation Approach",
+    "authors": "Hiya Bhatt, Shrikara Arun, Adyansh Kakran, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2404.04572",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/comped/KarreVR23",
+    "type": "inproceedings",
+    "year": "2023",
+    "title": "A Tool based Experiment to Teach Elicitation and Specification of Virtual Reality Product Requirements",
+    "authors": "Sai Anirudh Karre, Karthik Vaidhyanathan, Y. Raghu Reddy",
+    "venue": "Proceedings of the ACM Conference on Global Computing Education Vol 2, CompEd 2023, Hyderabad, India, December 5-9, 2023",
+    "url": "https://doi.org/10.1145/3617650.3624936",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/pacmhci/AlipourMVK23",
+    "type": "article",
+    "year": "2023",
+    "title": "Emoticontrol: Emotions-based Control of User-Interfaces Adaptations",
+    "authors": "Mina Alipour, Mahyar Tourchi Moghaddam, Karthik Vaidhyanathan, Mikkel Baun Kjærgaard",
+    "venue": "Proc. ACM Hum. Comput. Interact.",
+    "url": "https://doi.org/10.1145/3593227",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/hci/AlipourMVKA23",
+    "type": "inproceedings",
+    "year": "2023",
+    "title": "Emotional Internet of Behaviors: A QoE-QoS Adjustment Mechanism",
+    "authors": "Mina Alipour, Mahyar Tourchi Moghaddam, Karthik Vaidhyanathan, Tobias Kristensen, Nicolai Krogager Asmussen",
+    "venue": "Artificial Intelligence in HCI - 4th International Conference, AI-HCI 2023, Held as Part of the 25th HCI International Conference, HCII 2023, Copenhagen, Denmark, July 23-28, 2023, Proceedings, Part I",
+    "url": "https://doi.org/10.1007/978-3-031-35891-3\\_1",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/wf-iot/PranavasriFMPVVVG23",
+    "type": "inproceedings",
+    "year": "2023",
+    "title": "Scalable and Interoperable Distributed Architecture for IoT in Smart Cities",
+    "authors": "VJS Pranavasri, Leo Francis, Ushasri Mogadali, Gaurav Pal, SVSLN Surya Suhas Vaddhiparthy, Anuradha Vattem, Karthik Vaidhyanathan, Deepak Gangadharan",
+    "venue": "9th IEEE World Forum on Internet of Things, WF-IoT 2023, Aveiro, Portugal, October 12-27, 2023",
+    "url": "https://doi.org/10.1109/WF-IoT58464.2023.10539501",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/dagstuhl-reports/LewisMOVW023",
+    "type": "article",
+    "year": "2023",
+    "title": "Software Architecture and Machine Learning (Dagstuhl Seminar 23302)",
+    "authors": "Grace A. Lewis, Henry Muccini, Ipek Ozkaya, Karthik Vaidhyanathan, Roland Weiss, Liming Zhu",
+    "venue": "Dagstuhl Reports",
+    "url": "https://doi.org/10.4230/DagRep.13.7.166",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/wf-iot/GurejaACVC23",
+    "type": "inproceedings",
+    "year": "2023",
+    "title": "Software Architecture for Multi-User Multiplexing to Enhance Scalability in IoT-Based Remote Labs",
+    "authors": "Akshit Gureja, Rishabh Agrawal, Sachin Chaudhari, Karthik Vaidhyanathan, Venkatesh Choppella",
+    "venue": "9th IEEE World Forum on Internet of Things, WF-IoT 2023, Aveiro, Portugal, October 12-27, 2023",
+    "url": "https://doi.org/10.1109/WF-IoT58464.2023.10539512",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/um/AlipourMVK23",
+    "type": "inproceedings",
+    "year": "2023",
+    "title": "Toward Changing Users behavior with Emotion-based Adaptive Systems",
+    "authors": "Mina Alipour, Mahyar Tourchi Moghaddam, Karthik Vaidhyanathan, Mikkel Baun Kjærgaard",
+    "venue": "Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization, UMAP 2023, Limassol, Cyprus, June 26-29, 2023",
+    "url": "https://doi.org/10.1145/3565472.3595614",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/kbse/KulkarniMV23",
+    "type": "inproceedings",
+    "year": "2023",
+    "title": "Towards Self-Adaptive Machine Learning-Enabled Systems Through QoS-Aware Model Switching",
+    "authors": "Shubham Kulkarni, Arya Marda, Karthik Vaidhyanathan",
+    "venue": "38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023, Luxembourg, September 11-15, 2023",
+    "url": "https://doi.org/10.1109/ASE56229.2023.00172",
+    "selected": true
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2308-09960",
+    "type": "article",
+    "year": "2023",
+    "title": "Towards Self-Adaptive Machine Learning-Enabled Systems Through QoS-Aware Model Switching",
+    "authors": "Shubham Kulkarni, Arya Marda, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://doi.org/10.48550/arXiv.2308.09960",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/software/VaidhyanathanCM22",
+    "type": "article",
+    "year": "2022",
+    "title": "Agile4MLS - Leveraging Agile Practices for Developing Machine Learning-Enabled Systems: An Industrial Experience",
+    "authors": "Karthik Vaidhyanathan, Anish Chandran, Henry Muccini, Regi Roy",
+    "venue": "IEEE Softw.",
+    "url": "https://doi.org/10.1109/MS.2022.3195432",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/sac/MennaMV22",
+    "type": "inproceedings",
+    "year": "2022",
+    "title": "FEAST: a framework for evaluating implementation architectures of self-adaptive IoT systems",
+    "authors": "Federico Di Menna, Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "SAC '22: The 37th ACM/SIGAPP Symposium on Applied Computing, Virtual Event, April 25 - 29, 2022",
+    "url": "https://doi.org/10.1145/3477314.3507146",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/ecsa/CaporuscioTMV21",
+    "type": "inproceedings",
+    "year": "2021",
+    "title": "A Machine Learning Approach to Service Discovery for Microservice Architectures",
+    "authors": "Mauro Caporuscio, Marco De Toma, Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "Software Architecture - 15th European Conference, ECSA 2021, Virtual Event, Sweden, September 13-17, 2021, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-030-86044-8\\_5",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2109-07900",
+    "type": "article",
+    "year": "2021",
+    "title": "A Service for Supporting Digital and Immersive Cultural Experiences",
+    "authors": "Karthik Vaidhyanathan, Antonio Bruno, Eleonora Mendola, Filippo Mignosi, Mahyar Tourchi Moghaddam, Henry Muccini, Monica Nesi",
+    "venue": "CoRR",
+    "url": "https://arxiv.org/abs/2109.07900",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/iot/SanctisMV21",
+    "type": "inproceedings",
+    "year": "2021",
+    "title": "A User-driven Adaptation Approach for Microservice-based IoT Applications",
+    "authors": "Martina De Sanctis, Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "IoT '21: 11th International Conference on the Internet of Things, St. Gallen, Switzerland, November 8 - 12, 2021",
+    "url": "https://doi.org/10.1145/3494322.3494329",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2109-10073",
+    "type": "article",
+    "year": "2021",
+    "title": "Architecture Design for Human-Driven Systems",
+    "authors": "Mahyar Tourchi Moghaddam, Moamin B. Abughazala, Vittorio Cortellessa, Antinisca Di Marco, Henry Muccini, Fabrizio Rossi, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://arxiv.org/abs/2109.10073",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/ecsa/AbughazalaMMV21",
+    "type": "inproceedings",
+    "year": "2021",
+    "title": "Human Behavior-Oriented Architectural Design",
+    "authors": "Moamin Abughazala, Mahyar Tourchi Moghaddam, Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "Software Architecture - 15th European Conference, ECSA 2021, Virtual Event, Sweden, September 13-17, 2021, Proceedings",
+    "url": "https://doi.org/10.1007/978-3-030-86044-8\\_9",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icse-wain/MucciniV21",
+    "type": "inproceedings",
+    "year": "2021",
+    "title": "Software Architecture for ML-based Systems: What Exists and What Lies Ahead",
+    "authors": "Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "1st IEEE/ACM Workshop on AI Engineering - Software Engineering for AI, WAIN@ICSE 2021, Madrid, Spain, May 30-31, 2021",
+    "url": "https://doi.org/10.1109/WAIN52551.2021.00026",
+    "selected": true
+  },
+  {
+    "key": "DBLP:journals/corr/abs-2103-07950",
+    "type": "article",
+    "year": "2021",
+    "title": "Software Architecture for ML-based Systems: What Exists and What Lies Ahead",
+    "authors": "Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "CoRR",
+    "url": "https://arxiv.org/abs/2103.07950",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/SanctisMV20",
+    "type": "inproceedings",
+    "year": "2020",
+    "title": "Data-driven Adaptation in Microservice-based IoT Architectures",
+    "authors": "Martina De Sanctis, Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "2020 IEEE International Conference on Software Architecture Companion, ICSA Companion 2020, Salvador, Brazil, March 16-20, 2020",
+    "url": "https://doi.org/10.1109/ICSA-C50368.2020.00019",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/smartcomp/MucciniV20",
+    "type": "inproceedings",
+    "year": "2020",
+    "title": "Leveraging Machine Learning Techniques for Architecting Self-Adaptive IoT Systems",
+    "authors": "Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "IEEE International Conference on Smart Computing, SMARTCOMP 2020, Bologna, Italy, September 14-17, 2020",
+    "url": "https://doi.org/10.1109/SMARTCOMP50058.2020.00029",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/CamaraMV20",
+    "type": "inproceedings",
+    "year": "2020",
+    "title": "Quantitative Verification-Aided Machine Learning: A Tandem Approach for Architecting Self-Adaptive IoT Systems",
+    "authors": "Javier Cámara, Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "2020 IEEE International Conference on Software Architecture, ICSA 2020, Salvador, Brazil, March 16-20, 2020",
+    "url": "https://doi.org/10.1109/ICSA47634.2020.00010",
+    "selected": false
+  },
+  {
+    "key": "DBLP:journals/ercim/MucciniV20",
+    "type": "article",
+    "year": "2020",
+    "title": "Towards Self-Learnable Software Architectures",
+    "authors": "Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "ERCIM News",
+    "url": "https://ercim-news.ercim.eu/en122/special/towards-self-learnable-software-architectures",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/icsa/MucciniV19",
+    "type": "inproceedings",
+    "year": "2019",
+    "title": "A Machine Learning-Driven Approach for Proactive Decision Making in Adaptive Architectures",
+    "authors": "Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "IEEE International Conference on Software Architecture Companion, ICSA Companion 2019, Hamburg, Germany, March 25-26, 2019",
+    "url": "https://doi.org/10.1109/ICSA-C.2019.00050",
+    "selected": false
+  },
+  {
+    "key": "DBLP:conf/ecsa/MucciniV19",
+    "type": "inproceedings",
+    "year": "2019",
+    "title": "ArchLearner: leveraging machine-learning techniques for proactive architectural adaptation",
+    "authors": "Henry Muccini, Karthik Vaidhyanathan",
+    "venue": "Proceedings of the 13th European Conference on Software Architecture, ECSA 2019, Paris, France, September 9-13, 2019, Companion Proceedings (Proceedings Volume 2),",
+    "url": "https://doi.org/10.1145/3344948.3344962",
+    "selected": false
+  }
+]

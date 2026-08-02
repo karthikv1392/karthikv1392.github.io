@@ -1,0 +1,21 @@
+{
+  "name": "karthik-low-carbon-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm run publications:sync && eleventy --serve",
+    "build": "npm run publications:sync && eleventy",
+    "check:budget": "node scripts/check-budget.js",
+    "check:accessibility": "node scripts/check-accessibility.js",
+    "check:links": "node scripts/check-links.js",
+    "report:carbon": "node scripts/report-carbon.js",
+    "migrate:bibliography": "node scripts/migrate-bibliography.js",
+    "publications:sync": "node scripts/migrate-bibliography.js src/bibliography/publications.bib",
+    "migrate:pages": "node scripts/migrate-pages.js",
+    "migrate:news": "node scripts/migrate-news.js"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.6"
+  }
+}

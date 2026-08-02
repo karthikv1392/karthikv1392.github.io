@@ -1,0 +1,26 @@
+---
+layout: layouts/base.njk
+title: Events
+description: Selected recent events, tutorials, seminars, and invited lectures.
+permalink: /events/
+---
+<header class="page-hero page-hero-compact shell">
+  <p class="eyebrow">Events</p>
+  <h1>Recent events</h1>
+  <p class="lede">Selected seminars, tutorials, organizing roles, and invited appearances.</p>
+</header>
+<section class="section shell section-rule">
+  <ol class="appearance-list">
+    {% for appearance in appearances %}
+      <li>
+        <p class="appearance-date">{{ appearance.date }}</p>
+        <div>
+          <p class="appearance-role">{{ appearance.role }}</p>
+          <h2 class="event-title">{{ appearance.title }}</h2>
+          <p>{{ appearance.place }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ol>
+  <p class="archive-link"><a class="button button-secondary" href="/talks/">Complete talks archive</a></p>
+</section>

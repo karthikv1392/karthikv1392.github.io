@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "sustaind",
+    "title": "SustAInd",
+    "role": "Principal Investigator",
+    "description": "A software-centric framework for engineering sustainable AI-enabled systems.",
+    "collaboration": "Prime Minister Early Career Research Grant, Anusandhan National Research Foundation",
+    "url": "https://sa4s-serc.github.io/sustaind/",
+    "details": "The project develops architecture-centric methods and tools for understanding and improving the sustainability of AI-enabled systems across their lifecycle.",
+    "team": ["Anetta Sara", "Chandrasekar S", "Arihant Tripathy"]
+  },
+  {
+    "slug": "greensam",
+    "title": "GreenSAM",
+    "role": "Principal Investigator",
+    "description": "Approaches, frameworks, and tools for greening software deployments.",
+    "collaboration": "Lloyds Technology Centre",
+    "url": "https://lloydstechnologycentre.com",
+    "details": "GreenSAM studies how deployment and architectural decisions can be measured and adapted to reduce avoidable environmental impact.",
+    "team": ["Akhila Matathammal", "Shaunak Biswas", "Prakhar Singhal"]
+  },
+  {
+    "slug": "agentic-cloudops",
+    "title": "Agentic CloudOps",
+    "role": "Principal Investigator",
+    "description": "Agentic-AI-powered support for autonomous cloud operations.",
+    "collaboration": "MontyCloud Inc.",
+    "url": "https://blogs.iiit.ac.in/montycloud/",
+    "details": "The work examines how LLM-powered systems can support security, compliance, well-architected assessments, and operational recommendations with appropriate human oversight.",
+    "team": ["Rudra Dhar", "Mahisha Ramesh", "Sreemaee Akshathala", "Bassam Adnan", "Adyansh Kakran", "Amey Karan", "Shrikara A"]
+  },
+  {
+    "slug": "sa4s",
+    "title": "SA4S",
+    "role": "Principal Investigator",
+    "description": "Architecture-based approaches for sustainable data-intensive software systems.",
+    "collaboration": "IIIT Hyderabad seed grant",
+    "url": "https://sa4s-serc.github.io",
+    "details": "SA4S investigates technical and environmental sustainability challenges in IoT and ML-enabled systems through the lens of software architecture and self-adaptation.",
+    "team": ["Shubham Kulkarni", "Arya Marda", "Meghana Tedla", "Akhila Matathammal", "Hiya Bhatt"]
+  },
+  {
+    "slug": "model-switching",
+    "title": "Model Switching",
+    "role": "Principal Investigator",
+    "description": "Improving edge-AI sustainability through runtime model switching.",
+    "collaboration": "Qualcomm Edge AI Lab at IIIT Hyderabad",
+    "url": "https://blogs.iiit.ac.in/self-adaptive-edgeml-with-model-balancer/",
+    "details": "This work explores adaptation mechanisms that switch between machine-learning models according to changing quality-of-service and resource constraints.",
+    "team": ["Akhila Matathammal", "Arya Marda"]
+  },
+  {
+    "slug": "vasari",
+    "title": "VASARI",
+    "role": "Software architect and researcher",
+    "description": "An Italian national project for digital and immersive cultural-heritage experiences.",
+    "collaboration": "Italian universities and industrial partners",
+    "url": "https://www.vasariartexperience.it/",
+    "details": "Responsibilities included coordinating implementation architecture, documenting design decisions, integrating IoT devices, and developing backend prototypes for a multi-partner platform.",
+    "team": []
+  },
+  {
+    "slug": "python-virtual-labs",
+    "title": "Python Virtual Labs",
+    "role": "Co-Principal Investigator",
+    "description": "Interactive experiments for teaching advanced Python topics.",
+    "collaboration": "Virtual Labs, Ministry of Education, Government of India",
+    "url": "https://python-iiith.vlabs.ac.in/Introduction.html",
+    "details": "The project develops interactive learning experiments covering exception handling, complex data types, higher-order functions, lambda functions, and related concepts.",
+    "team": ["Adyansh Kakran", "Prathistha Abrol", "Karthik Konar", "Mohit Patni"]
+  }
+]

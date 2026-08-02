@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <meta name="theme-color" content="#f4f0e8" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#14211c" media="(prefers-color-scheme: dark)">
+    <title>{% if title %}{{ title }} · {% endif %}{{ site.name }}</title>
+    <meta name="description" content="{{ description or site.description }}">
+    <meta name="author" content="{{ site.name }}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta property="og:title" content="{% if title %}{{ title }} · {% endif %}{{ site.name }}">
+    <meta property="og:description" content="{{ description or site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}{{ site.profile.large }}">
+    <meta name="twitter:card" content="summary">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="/assets/site.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="/" aria-label="{{ site.name }}, home">
+          <span class="brand-mark" aria-hidden="true">KV</span>
+          <span class="brand-name">{{ site.name }}</span>
+        </a>
+        <nav class="desktop-navigation" aria-label="Primary navigation">
+          <ul class="nav-list">
+            {% for item in site.navigation %}
+              <li>
+                <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
+        <details class="mobile-navigation">
+          <summary>Menu</summary>
+          <nav aria-label="Mobile navigation">
+            <ul class="nav-list">
+              {% for item in site.navigation %}
+                <li>
+                  <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </nav>
+        </details>
+      </div>
+    </header>
+
+    <main id="main-content">
+      {{ content | safe }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div>
+          <p class="footer-heading">{{ site.name }}</p>
+          <p>Software architecture, AI, and sustainability.</p>
+        </div>
+        <div>
+          <p class="footer-heading">Elsewhere</p>
+          <ul class="footer-links">
+            {% for item in site.social %}
+              <li><a href="{{ item.url }}" rel="me">{{ item.label }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div>
+          <p class="footer-heading">This website</p>
+          <p><a href="/sustainability/">Read the sustainability statement</a>.</p>
+          <p><a href="/projects/">Projects</a> · <a href="/students/">Students</a> · <a href="/activities/">Service</a></p>
+          <p><a href="/news/">News</a> · <a href="/events/">Events</a> · <a href="/media/">Media</a></p>
+          <p>Built as static HTML. No tracking, web fonts, or client-side JavaScript.</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

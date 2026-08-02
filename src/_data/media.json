@@ -1,0 +1,82 @@
+[
+  {
+    "date": "February 2026",
+    "type": "News article",
+    "source": "Business Today",
+    "title": "AI Agent Tools Aren't Ready for the Real World Yet, New Study Finds",
+    "description": "Coverage of research on the strengths and limitations of popular agentic-AI frameworks.",
+    "url": "https://www.businesstoday.in/technology/news/story/ai-agent-tools-arent-ready-for-the-real-world-yet-new-study-finds-514336-2026-02-03"
+  },
+  {
+    "date": "February 2026",
+    "type": "News article",
+    "source": "Analytics India Magazine",
+    "title": "Out of 10 Popular Agentic AI Frameworks, 0 are Foolproof",
+    "description": "Coverage of the study Agentic AI Frameworks Under the Microscope.",
+    "url": "https://analyticsindiamag.com/ai-news/out-of-10-popular-agentic-ai-frameworks-0-are-foolproof-finds-iiit-hyderabad-prof"
+  },
+  {
+    "date": "February 2026",
+    "type": "Commentary",
+    "source": "Analytics India Magazine",
+    "title": "Why the Indian IT Bench is No Longer a Nursery",
+    "description": "Commentary on balancing AI-driven efficiency with deliberate human skill building.",
+    "url": "https://analyticsindiamag.com/it-services/why-the-indian-it-bench-is-no-longer-a-nursery"
+  },
+  {
+    "date": "January 2026",
+    "type": "News article",
+    "source": "News18",
+    "title": "IIIT Hyderabad Launches Certificate Programme on Engineering Agentic AI Systems",
+    "description": "Coverage of IIIT Hyderabad's three-month programme on engineering agentic-AI systems.",
+    "url": "https://www.news18.com/education-career/iiit-hyderabad-launches-3-month-certificate-programme-on-engineering-agentic-ai-systems-9778297.html"
+  },
+  {
+    "date": "December 2025",
+    "type": "Podcast",
+    "source": "DFL, IIIT Hyderabad",
+    "title": "Engineering Agentic AI Systems",
+    "description": "A conversation about engineering agentic-AI systems and the related certificate course.",
+    "url": "https://youtu.be/GFqq8uxvEEk"
+  },
+  {
+    "date": "October 2025",
+    "type": "Podcast",
+    "source": "Green Software Foundation",
+    "title": "Environment Variables: Software Sustainability and Green AI",
+    "description": "A discussion of sustainable AI, model switching, sustainable MLOps, and SustAInd.",
+    "url": "https://lnkd.in/gkMagfWt"
+  },
+  {
+    "date": "October 2024",
+    "type": "Press release",
+    "source": "EIN Presswire",
+    "title": "MontyCloud and IIIT Hyderabad Present Framework for Autonomous Agent Orchestration",
+    "description": "Coverage of the collaborative autonomous CloudOps framework presented at CAIN.",
+    "url": "https://www.einpresswire.com/article/777313708/montycloud-and-iiit-hyderabad-present-groundbreaking-framework-for-autonomous-agent-orchestration-at-cain"
+  },
+  {
+    "date": "September 2024",
+    "type": "Blog article",
+    "source": "IIIT Hyderabad",
+    "title": "Enhancing Sustainability of Modern Software Systems through Self-adaptive Architectures",
+    "description": "An overview of research on self-adaptive architectures for sustainable software systems.",
+    "url": "https://blogs.iiit.ac.in/software-sustainability/"
+  },
+  {
+    "date": "August 2024",
+    "type": "Blog article",
+    "source": "IIIT Hyderabad",
+    "title": "Self-adaptive EdgeML with Model Balancer",
+    "description": "An introduction to adaptive model balancing for edge machine learning.",
+    "url": "https://blogs.iiit.ac.in/self-adaptive-edgeml-with-model-balancer/"
+  },
+  {
+    "date": "April 2024",
+    "type": "Profile",
+    "source": "IIIT Hyderabad",
+    "title": "From Brickbats to Bouquets — A Software Engineering Researcher's Journey",
+    "description": "A profile covering Karthik's academic journey and research interests.",
+    "url": "https://blogs.iiit.ac.in/karthik-vaidhyanathan/"
+  }
+]
