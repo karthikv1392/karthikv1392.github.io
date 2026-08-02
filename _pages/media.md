@@ -26,15 +26,13 @@ There have been some media (press and institute) coverage of my work as well as 
       <p class="media-description">{{ article.description }}</p>
       
       <div class="media-source">
-        <i class="fas fa-external-link-alt"></i>
         {{ article.source }}
       </div>
     </div>
     
     <div class="media-card-footer">
       <a href="{{ article.url }}" target="_blank" rel="noopener noreferrer" class="media-link-btn">
-        <i class="fas fa-external-link-alt"></i>
-        Read More
+        Read more &#8599;
       </a>
     </div>
   </div>

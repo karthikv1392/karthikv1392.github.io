@@ -12,7 +12,7 @@ I have been involved as a co-chair/organizing committee member/program committee
 
 __2027__
   1. Proceedings Co-Chair, [49th ACM/IEEE International Conference on Software Engineering (ICSE) 2027](https://conf.researchr.org/home/icse-2027)
-
+  2. Registered Report Co-Chair, European Conference on Software Architecture (ECSA) 2027
 
 __2026__
 

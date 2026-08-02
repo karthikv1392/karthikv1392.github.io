@@ -16,13 +16,11 @@
   --global-divider-color: rgba(0, 0, 0, .1);
   --global-card-bg-color: #{$white-color};
 
-  .fa-sun {
+  .icon-sun {
     display: none;
   }
 
-  .fa-moon {
-    padding-left: 10px;
-    padding-top: 12px;
+  .icon-moon {
     display: block;
   }
 }
@@ -41,13 +39,11 @@ html[data-theme='dark'] {
   --global-divider-color: #334155;
   --global-card-bg-color: #1e293b;
 
-  .fa-sun {
-    padding-left: 10px;
-    padding-top: 12px;
+  .icon-sun {
     display: block;
   }
 
-  .fa-moon {
+  .icon-moon {
     display: none;
   }
 }

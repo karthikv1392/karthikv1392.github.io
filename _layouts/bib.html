@@ -14,8 +14,8 @@
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
-          <!-- Publication Image -->
-          {%- if entry.image -%}
+          <!-- Publication Image (skip the generic placeholder — adds no information) -->
+          {%- if entry.image and entry.image != "default-paper.png" -%}
           <div class="publication-image">
             {% if entry.image contains '://' -%}
             <img src="{{ entry.image }}" alt="{{ entry.title }}" class="pub-img">
@@ -47,7 +47,7 @@
                 {%- endif -%}
               {%- endfor -%}
             {%- endif -%}
-            
+
             {%- if forloop.length == 1 -%}
               {%- if author_is_self %}
                 <em>{{author.last}}, {{author.first}}</em>
@@ -97,102 +97,64 @@
             {{ periodical | strip }}
           </div>
         {%- endif %}
-        
+
           <!-- Links/Buttons -->
           <div class="links">
-          {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button" title="Abstract">
-              <i class="fas fa-file-alt"></i> Abstract
-            </a>
-          {%- endif %}
           {%- if entry.arxiv %}
-            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" title="arXiv">
-              <i class="fas fa-external-link-alt"></i> arXiv
-            </a>
-          {%- endif %}
-          {%- if entry.bibtex_show %}
-            <a class="bibtex btn btn-sm z-depth-0" role="button" title="BibTeX">
-              <i class="fas fa-code"></i> BibTeX
-            </a>
+            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm" title="arXiv">arXiv</a>
           {%- endif %}
           {%- if entry.html %}
-            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" title="HTML Version">
-              <i class="fas fa-globe"></i> HTML
-            </a>
+            <a href="{{ entry.html }}" class="btn btn-sm" title="HTML Version">HTML</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
-            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" title="PDF Download">
-              <i class="fas fa-file-pdf"></i> PDF
-            </a>
+            <a href="{{ entry.pdf }}" class="btn btn-sm" title="PDF Download">PDF</a>
             {%- else -%}
-            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="PDF Download">
-              <i class="fas fa-file-pdf"></i> PDF
-            </a>
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm" title="PDF Download">PDF</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
-            <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button" title="Supplementary Material">
-              <i class="fas fa-file-archive"></i> Supp
-            </a>
+            <a href="{{ entry.supp }}" class="btn btn-sm" title="Supplementary Material">Supp</a>
             {%- else -%}
-            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Supplementary Material">
-              <i class="fas fa-file-archive"></i> Supp
-            </a>
+            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm" title="Supplementary Material">Supp</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.blog %}
-            <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button" title="Blog Post">
-              <i class="fas fa-blog"></i> Blog
-            </a>
+            <a href="{{ entry.blog }}" class="btn btn-sm" title="Blog Post">Blog</a>
           {%- endif %}
           {%- if entry.code %}
-            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" title="Source Code">
-              <i class="fab fa-github"></i> Code
-            </a>
+            <a href="{{ entry.code }}" class="btn btn-sm" title="Source Code">Code</a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
-            <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button" title="Poster">
-              <i class="fas fa-image"></i> Poster
-            </a>
+            <a href="{{ entry.poster }}" class="btn btn-sm" title="Poster">Poster</a>
             {%- else -%}
-            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Poster">
-              <i class="fas fa-image"></i> Poster
-            </a>
+            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm" title="Poster">Poster</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.slides %}
             {% if entry.slides contains '://' -%}
-            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button" title="Presentation Slides">
-              <i class="fas fa-presentation"></i> Slides
-            </a>
+            <a href="{{ entry.slides }}" class="btn btn-sm" title="Presentation Slides">Slides</a>
             {%- else -%}
-            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" title="Presentation Slides">
-              <i class="fas fa-presentation"></i> Slides
-            </a>
+            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm" title="Presentation Slides">Slides</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.website %}
-            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button" title="Project Website">
-              <i class="fas fa-link"></i> Website
-            </a>
+            <a href="{{ entry.website }}" class="btn btn-sm" title="Project Website">Website</a>
+          {%- endif %}
+          {%- if entry.abstract %}
+            <details class="abstract-details">
+              <summary class="btn btn-sm">Abstract</summary>
+              <p>{{ entry.abstract }}</p>
+            </details>
+          {%- endif %}
+          {%- if entry.bibtex_show %}
+            <details class="bibtex-details">
+              <summary class="btn btn-sm">BibTeX</summary>
+              {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
+            </details>
           {%- endif %}
           </div>
-
-          {% if entry.abstract -%}
-          <!-- Hidden abstract block -->
-          <div class="abstract hidden">
-            <p>{{ entry.abstract }}</p>
-          </div>
-          {%- endif -%}
-
-          {% if entry.bibtex_show -%}
-          <!-- Hidden bibtex block -->
-          <div class="bibtex hidden">
-            {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
-          </div>
-          {%- endif %}
         </div>
       </div>
