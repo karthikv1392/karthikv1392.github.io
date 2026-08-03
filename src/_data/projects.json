@@ -7,7 +7,7 @@
     "collaboration": "Prime Minister Early Career Research Grant, Anusandhan National Research Foundation",
     "url": "https://sa4s-serc.github.io/sustaind/",
     "details": "The project develops architecture-centric methods and tools for understanding and improving the sustainability of AI-enabled systems across their lifecycle.",
-    "team": ["Anetta Sara", "Chandrasekar S", "Arihant Tripathy"]
+    "team": ["Anetta Sara", "Chandrasekar S", "Arihant Tripathy", "Aanagha Prajapathi"]
   },
   {
     "slug": "greensam",
@@ -27,7 +27,7 @@
     "collaboration": "MontyCloud Inc.",
     "url": "https://blogs.iiit.ac.in/montycloud/",
     "details": "The work examines how LLM-powered systems can support security, compliance, well-architected assessments, and operational recommendations with appropriate human oversight.",
-    "team": ["Rudra Dhar", "Mahisha Ramesh", "Sreemaee Akshathala", "Bassam Adnan", "Adyansh Kakran", "Amey Karan", "Shrikara A"]
+    "team": ["Pranav Reddy","Sreemaee Akshathala", "Bassam Adnan", "Aviral Gupta","Arihant Tripathy"]
   },
   {
     "slug": "sa4s",

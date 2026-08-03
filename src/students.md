@@ -17,35 +17,33 @@ __Ongoing PhD Students__
   1. Rudra Dhar, Computer Science PhD Student, IIIT Hyderabad, India (Co-supervision with Prof. Vasudeva Varma)
   2. Akhila Matathammal, Computer Science PhD Student, IIIT Hyderabad, India
   3. Srinivasan Rakhunathan, Computer Science PhD Student (Part-time), IIIT Hyderbad, India
-  4. Anetta Sara, Computer Science PhD student, IIIT Hyderabad, India
-  5. Sabyasachi Mukhopadhyay, Computer Science PhD Student (Part-time), IIIT Hyderabad, India (Co-supervision with Dr. Manish Shrivastava)
+  4. Chandrasekar S, Computer Science PhD student, IIIT Hyderabad, India
+  5. Anetta Sara, Computer Science PhD student, IIIT Hyderabad, India
+  6. Sabyasachi Mukhopadhyay, Computer Science PhD Student (Part-time), IIIT Hyderabad, India (Co-supervision with Dr. Manish Shrivastava)
 
 
 ## Master Students
 
-__Ongoing MS Students__
+__Ongoing MS By Research Students__
 
-  1. Chandrasekar S, MS by Research in CS, IIIT Hyderabad, India
-  2. Sreemaee Akshathala, MS by Research in CS, IIIT Hyderabad, India
-  3. Likhith Kanigolla, MS by Research in CS, IIIT Hyderabad, India
-  4. Ch Pavan, MS by Research in CS, IIIT Hyderabad, India
+  1. Sreemaee Akshathala, MS by Research in CS, IIIT Hyderabad, India
+  2. Likhith Kanigolla, MS by Research in CS, IIIT Hyderabad, India
+  3. Ch Pavan, MS by Research in CS, IIIT Hyderabad, India
 
 __Ongoing Dual Degree Students__
 
-  1. Adyansh Kakran, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  2. Prakhar Jain, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India
-  3. Amey Karan, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  4. Miryala Sathvika, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India
-  5. Prakhar Singhal, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  6. Shaunak Biswas, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  7. Shailender Goyal, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  8. Bassam Adnan, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
-  9. Sambu Aneesh, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
-  10. Aviral Gupta, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  11. Arihant Tripathy, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  12. Shreyash Chandak, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  13. Pranav Swarup Kumar, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
-  14. Aditya AV, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  1. Amey Karan, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  2. Miryala Sathvika, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India
+  3. Prakhar Singhal, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  4. Shaunak Biswas, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  5. Shailender Goyal, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  6. Bassam Adnan, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
+  7. Sambu Aneesh, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India (Co-supervisor with Ramesh Loganathan)
+  8. Aviral Gupta, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  9. Arihant Tripathy, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  10. Shreyash Chandak, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  11. Pranav Swarup Kumar, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  12. Aditya AV, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
 
 __Graduated__
 
@@ -58,9 +56,11 @@ __Graduated__
   7. Vyakhya Gupta, B.Tech CSE, IIIT Hyderabad, India
   8. Kotekal Methukula Santhosh, B.Tech CSE, IIIT Hyderabad, India
   9. Divyansh Pandey, B.Tech CSE, IIIT Hyderabad, India
-  10. Stefano Florio, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
-  11. Marco De Toma,  Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
-  12. Matteo Capodicasa, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  10. Chandrasekar S, MS by Research in CS, IIIT Hyderabad, India
+  11. Adyansh Kakran, Computer Science Dual Degree (CSD), IIIT Hyderabad, India
+  12. Prakhar Jain, Computer Science Lateral Entry Dual Degree (LCD), IIIT Hyderabad, India
+  13. Stefano Florio, Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
+  14. Marco De Toma,  Msc. Computer Science, University of L'Aquila, Italy (Co-supervisor)
 
 ## Research Staff
   1. Pranav Reddy, Research Engineer (Agentic AI for Industrial systems), IIIT Hyderabad, India
