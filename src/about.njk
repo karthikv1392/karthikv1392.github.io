@@ -1,0 +1,37 @@
+---
+layout: layouts/base.njk
+title: About
+description: Biography and contact information for Karthik Vaidhyanathan.
+---
+<header class="page-hero shell">
+  <p class="eyebrow">About</p>
+  <h1>I connect research questions with the realities of building software.</h1>
+</header>
+
+<section class="section shell section-rule bio-grid">
+  <div class="portrait-panel">
+    <img src="{{ site.profile.small }}" srcset="{{ site.profile.small }} 320w, {{ site.profile.large }} 600w" sizes="(max-width: 48rem) 90vw, 380px" width="{{ site.profile.width }}" height="{{ site.profile.height }}" alt="{{ site.profile.alt }}" loading="lazy" decoding="async">
+    <p>Hyderabad · India</p>
+  </div>
+  <div class="long-form">
+    <p class="lead-paragraph">Karthik Vaidhyanathan is an Assistant Professor at the Software Engineering Research Center, IIIT Hyderabad, and is associated with the leadership team of the institute’s Smart City Living Lab.</p>
+    <p>His research lies at the intersection of software architecture and artificial intelligence, with a particular focus on sustainable software systems. He studies how AI techniques can support self-adaptive systems and how architectural practices should evolve for AI-enabled software.</p>
+    <p>He received his PhD from the Gran Sasso Science Institute in Italy and completed postdoctoral work at the University of L’Aquila. Alongside academia, he brings more than five years of industry and consulting experience in building and deploying machine-learning products and services.</p>
+    <p>He contributes to the software-engineering community through reviewing, organizing, teaching, and editorial service.</p>
+  </div>
+</section>
+
+<section class="section shell section-rule contact-grid">
+  <div>
+    <p class="eyebrow">Contact</p>
+    <h2>The best way to reach me is by email.</h2>
+  </div>
+  <div>
+    <p><a class="email-link" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+    <ul class="profile-links">
+      {% for item in site.social %}
+        <li><a href="{{ item.url }}">{{ item.label }} <span aria-hidden="true">↗</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,64 @@
+---
+layout: layouts/base.njk
+title: Website Sustainability
+description: The environmental design principles and performance budget for this website.
+---
+<header class="page-hero shell">
+  <p class="eyebrow">Website sustainability</p>
+  <h1>A lighter website is a design constraint, not a badge.</h1>
+  <p class="lede">This site is designed to communicate clearly while transferring and executing as little as practical on a visitor’s device.</p>
+</header>
+
+<section class="section shell section-rule">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Current implementation</p>
+      <h2>What the site deliberately avoids</h2>
+    </div>
+    <p>These are verifiable implementation choices, not a claim that the website has no environmental impact.</p>
+  </div>
+  <ul class="evidence-grid">
+    <li><strong>No client-side JavaScript</strong><span>The published pages work as HTML and CSS.</span></li>
+    <li><strong>No third-party requests</strong><span>No analytics, advertising, externally hosted fonts, or embedded media.</span></li>
+    <li><strong>No downloaded fonts</strong><span>The site uses the visitor’s existing system typefaces.</span></li>
+    <li><strong>No decorative images</strong><span>Visual identity comes from typography, colour, spacing, and structure.</span></li>
+  </ul>
+</section>
+
+<section class="section shell section-rule budget-grid">
+  <div>
+    <p class="eyebrow">Performance budget</p>
+    <h2>Limits checked during every build</h2>
+  </div>
+  <dl>
+    <div><dt>Homepage</dt><dd>≤ 150 KB</dd></div>
+    <div><dt>CSS</dt><dd>≤ 20 KB</dd></div>
+    <div><dt>JavaScript</dt><dd>0 KB</dd></div>
+    <div><dt>Initial requests</dt><dd>≤ 8</dd></div>
+    <div><dt>Third-party resources</dt><dd>0</dd></div>
+  </dl>
+</section>
+
+<section class="section shell section-rule budget-grid">
+  <div>
+    <p class="eyebrow">Estimated footprint</p>
+    <h2>A+ carbon rating for the current homepage</h2>
+    <p>Measured 2 August 2026 using the first-load transfer size and the Sustainable Web Design Model version 4 global-grid defaults.</p>
+  </div>
+  <dl>
+    <div><dt>First load</dt><dd>50.9 KB</dd></div>
+    <div><dt>Homepage view</dt><dd>≈ 0.0070 gCO₂e</dd></div>
+    <div><dt>Average page</dt><dd>≈ 0.0042 gCO₂e</dd></div>
+    <div><dt>Heaviest page</dt><dd>≈ 0.0137 gCO₂e</dd></div>
+    <div><dt>10,000 average views</dt><dd>≈ 42 gCO₂e</dd></div>
+    <div><dt>Rating</dt><dd>A+</dd></div>
+  </dl>
+</section>
+
+<section class="section shell section-rule long-form narrow-copy">
+  <p class="eyebrow">Measurement and limits</p>
+  <h2>Carbon estimates are estimates.</h2>
+  <p>The homepage estimate multiplies 50,920 transferred bytes by the SWDM v4 total energy intensity of 0.300 kWh/GB and the default global grid intensity of 494 gCO₂e/kWh. The broader audit covers 58 generated HTML pages; their average first load is 30.5 KB. The broad system boundary includes operational and embodied emissions attributed across data centres, networks, and user devices.</p>
+  <p>Website-carbon tools use transferred data as a proxy. They are useful for comparison and improvement, but they do not directly measure every server, network, or visitor device involved.</p>
+  <p>The site therefore publishes concrete technical facts and dated measurements rather than describing itself as “zero carbon”. Hosting-energy evidence will be added when the production provider has been selected and independently verified.</p>
+</section>

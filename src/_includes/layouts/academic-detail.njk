@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+---
+{% include "partials/related-work-nav.njk" %}
+<header class="page-hero page-hero-compact shell">
+  <p class="eyebrow">{{ eyebrow or "Work & ideas" }}</p>
+  <h1>{{ title }}</h1>
+  {% if description %}<p class="lede">{{ description }}</p>{% endif %}
+</header>
+<article class="section shell section-rule prose">
+  {{ content | safe }}
+</article>

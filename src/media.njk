@@ -1,0 +1,25 @@
+---
+layout: layouts/base.njk
+title: Media
+description: Press coverage, interviews, podcasts, and articles.
+---
+{% include "partials/related-work-nav.njk" %}
+<header class="page-hero page-hero-compact shell">
+  <p class="eyebrow">In the media</p>
+  <h1>Media</h1>
+  <p class="lede">Selected press coverage, profiles, podcasts, and articles about my work and the SA4S research group.</p>
+</header>
+<section class="section shell section-rule">
+  <ol class="media-list">
+    {% for item in media %}
+      <li>
+        <div>
+          <p class="media-meta">{{ item.date }} · {{ item.type }}</p>
+          <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+          <p>{{ item.description }}</p>
+        </div>
+        <p class="media-source">{{ item.source }}</p>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

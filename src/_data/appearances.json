@@ -1,0 +1,32 @@
+[
+  {
+    "date": "April 2026",
+    "role": "Co-organizer",
+    "title": "1st Seminar on Agents in Software Engineering (A2SE)",
+    "place": "Rio de Janeiro, Brazil"
+  },
+  {
+    "date": "March 2026",
+    "role": "Participant",
+    "title": "NII Shonan Meeting: Software Engineering for Agentic AI Systems",
+    "place": "Shonan, Japan"
+  },
+  {
+    "date": "January 2026",
+    "role": "Tutorial",
+    "title": "Digital Architecture in the Age of Generative AI",
+    "place": "Vrije Universiteit Amsterdam"
+  },
+  {
+    "date": "January 2026",
+    "role": "Tutorial",
+    "title": "Software Architecture in the Age of Generative and Agentic AI",
+    "place": "AISE Winter School"
+  },
+  {
+    "date": "November 2025",
+    "role": "Invited talk",
+    "title": "Generative AI in Software Engineering",
+    "place": "ThinkWise Event"
+  }
+]

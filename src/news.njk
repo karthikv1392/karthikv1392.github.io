@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+title: News
+description: News and announcements from Karthik Vaidhyanathan.
+permalink: /news/
+---
+<header class="page-hero page-hero-compact shell">
+  <p class="eyebrow">Updates</p>
+  <h1>News</h1>
+  <p class="lede">Research visits, talks, publications, service, and community activity migrated from the existing website.</p>
+</header>
+<section class="section shell section-rule">
+  <ol class="news-list">
+    {% set newsItems = collections.news | reverse %}
+    {% for item in newsItems %}
+      <li>
+        <time datetime="{{ item.date | htmlDate }}">{{ item.date | readableDate }}</time>
+        <h2><a href="{{ item.url }}">{{ item.data.title }}</a></h2>
+      </li>
+    {% endfor %}
+  </ol>
+</section>

@@ -1,0 +1,34 @@
+---
+layout: layouts/base.njk
+title: Publications
+description: Complete publication list migrated from Karthik Vaidhyanathan's bibliography.
+---
+<header class="page-hero page-hero-compact shell">
+  <p class="eyebrow">Research output</p>
+  <h1>Publications</h1>
+  <p class="lede">{{ publications | length }} publication records maintained from a single BibTeX source. Browse by year; titles link to DOI or publication records when available.</p>
+  {% set publicationYears = publications | uniqueYears %}
+  <nav class="year-nav" aria-label="Publication years">
+    {% for year in publicationYears %}<a href="#year-{{ year }}">{{ year }}</a>{% endfor %}
+  </nav>
+</header>
+<section class="section shell section-rule">
+  {% for year in publicationYears %}
+    <section class="publication-year-group" id="year-{{ year }}" aria-labelledby="year-{{ year }}-heading">
+      <h2 id="year-{{ year }}-heading">{{ year }}</h2>
+      <ol class="publication-list publication-list-grouped">
+        {% for publication in publications %}
+          {% if publication.year == year %}
+            <li>
+              <div>
+                <h3 class="publication-title">{% if publication.url %}<a href="{{ publication.url }}">{% endif %}{{ publication.title }}{% if publication.url %}</a>{% endif %}</h3>
+                <p>{{ publication.authors }}</p>
+                <p class="publication-venue">{{ publication.venue }}</p>
+              </div>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ol>
+    </section>
+  {% endfor %}
+</section>
