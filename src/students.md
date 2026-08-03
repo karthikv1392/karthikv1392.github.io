@@ -18,7 +18,7 @@ __Ongoing PhD Students__
   2. Akhila Matathammal, Computer Science PhD Student, IIIT Hyderabad, India
   3. Srinivasan Rakhunathan, Computer Science PhD Student (Part-time), IIIT Hyderbad, India
   4. Chandrasekar S, Computer Science PhD student, IIIT Hyderabad, India
-  5. Anetta Sara, Computer Science PhD student, IIIT Hyderabad, India
+  5. Aneetta Sara Shany, Computer Science PhD student, IIIT Hyderabad, India
   6. Sabyasachi Mukhopadhyay, Computer Science PhD Student (Part-time), IIIT Hyderabad, India (Co-supervision with Dr. Manish Shrivastava)
 
 
