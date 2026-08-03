@@ -118,8 +118,101 @@ function cleanAuthors(value = "") {
     .join(", ");
 }
 
+function normalizeForComparison(value = "") {
+  return value
+    .normalize("NFKD")
+    .toLowerCase()
+    .replace(/[‐‑–—−]/g, "-")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function titleSimilarity(left, right) {
+  const leftWords = new Set(normalizeForComparison(left).split(" ").filter(Boolean));
+  const rightWords = new Set(normalizeForComparison(right).split(" ").filter(Boolean));
+  let sharedWords = 0;
+
+  for (const word of leftWords) {
+    if (rightWords.has(word)) sharedWords += 1;
+  }
+
+  return sharedWords / (leftWords.size + rightWords.size - sharedWords);
+}
+
+function authorFingerprint(authors) {
+  return authors
+    .split(",")
+    .map((author) => normalizeForComparison(author))
+    .filter(Boolean)
+    .join("|");
+}
+
+function areDuplicatePublications(left, right) {
+  const leftTitle = normalizeForComparison(left.title);
+  const rightTitle = normalizeForComparison(right.title);
+  if (leftTitle === rightTitle) return true;
+
+  return (
+    authorFingerprint(left.authors) === authorFingerprint(right.authors) &&
+    titleSimilarity(left.title, right.title) >= 0.8
+  );
+}
+
+function publicationQuality(publication) {
+  const repositoryVersion =
+    /^(corr|zenodo)$/i.test(publication.venue) || /arxiv\.org|\/arxiv\./i.test(publication.url);
+  const version = Number(publication.title.match(/\(version\s+(\d+)\)/i)?.[1] ?? 0);
+
+  return (
+    (repositoryVersion ? 0 : 100000) +
+    Number(publication.year || 0) * 10 +
+    (publication.type === "article" || publication.type === "inproceedings" ? 5 : 0) +
+    version
+  );
+}
+
+function deduplicatePublications(publications) {
+  const parents = publications.map((_, index) => index);
+
+  function find(index) {
+    if (parents[index] !== index) parents[index] = find(parents[index]);
+    return parents[index];
+  }
+
+  function unite(left, right) {
+    const leftRoot = find(left);
+    const rightRoot = find(right);
+    if (leftRoot !== rightRoot) parents[rightRoot] = leftRoot;
+  }
+
+  for (let left = 0; left < publications.length; left += 1) {
+    for (let right = left + 1; right < publications.length; right += 1) {
+      if (areDuplicatePublications(publications[left], publications[right])) unite(left, right);
+    }
+  }
+
+  const groups = new Map();
+  publications.forEach((publication, index) => {
+    const root = find(index);
+    if (!groups.has(root)) groups.set(root, []);
+    groups.get(root).push(publication);
+  });
+
+  return [...groups.values()].map((group) => {
+    const canonical = group.reduce((best, publication) =>
+      publicationQuality(publication) > publicationQuality(best) ? publication : best
+    );
+
+    return {
+      ...canonical,
+      url: canonical.url || group.find((publication) => publication.url)?.url || "",
+      selected: group.some((publication) => publication.selected)
+    };
+  });
+}
+
 const source = await readFile(path.resolve(inputPath), "utf8");
-const publications = extractEntries(source)
+const parsedPublications = extractEntries(source)
   .map(({ type, body }) => {
     const { key, fields } = parseFields(body);
     const doi = cleanText(fields.doi);
@@ -136,11 +229,16 @@ const publications = extractEntries(source)
       selected: cleanText(fields.selected).toLowerCase() === "true"
     };
   })
-  .filter((publication) => publication.title && publication.year)
+  .filter((publication) => publication.title && publication.year);
+
+const publications = deduplicatePublications(parsedPublications)
   .sort((left, right) => {
     const yearDifference = Number(right.year) - Number(left.year);
     return yearDifference || left.title.localeCompare(right.title);
   });
 
 await writeFile(path.resolve(outputPath), `${JSON.stringify(publications, null, 2)}\n`);
-console.log(`Migrated ${publications.length} publications to ${outputPath}`);
+const duplicateCount = parsedPublications.length - publications.length;
+console.log(
+  `Migrated ${publications.length} publications to ${outputPath} (${duplicateCount} duplicate${duplicateCount === 1 ? "" : "s"} removed)`
+);
