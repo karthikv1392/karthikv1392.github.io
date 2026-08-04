@@ -1,0 +1,63 @@
+---
+layout: layouts/base.njk
+title: Resources & Field Notes
+description: IEEE Software writing, essential software engineering papers, and practical resources curated by Karthik Vaidhyanathan.
+permalink: /resources/
+---
+{% include "partials/related-work-nav.njk" %}
+<header class="page-hero page-hero-compact shell">
+  <p class="eyebrow">Writing · Reading · Practice</p>
+  <h1>Resources & Field Notes</h1>
+  <p class="lede">A curated shelf of my IEEE Software writing and research that has shaped how I think about software architecture, intelligent systems, and sustainability.</p>
+</header>
+
+<section class="section shell section-rule" id="ieee-software-writing" aria-labelledby="writing-heading">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Software Engineering Radio</p>
+      <h2 id="writing-heading">Writing for IEEE Software</h2>
+    </div>
+    <p>As a member of the Software Engineering Radio team, I write IEEE Software articles that synthesize conversations from multiple episodes into practical engineering themes.</p>
+  </div>
+  <ol class="media-list">
+    {% for item in resources.writing %}
+      <li>
+        <article>
+          <p class="media-meta">SE Radio digest · IEEE Software</p>
+          <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+          <p>{{ item.summary }}</p>
+          <p class="project-collaboration">K. Vaidhyanathan. {{ item.publication }}. DOI: {{ item.doi }}.</p>
+          <p class="project-collaboration">Topics: {{ item.keywords | join(", ") }}</p>
+        </article>
+        <p class="media-source">{{ item.year }}</p>
+      </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<section class="section shell section-rule" id="essential-reading" aria-labelledby="reading-heading">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">The ideas underneath the work</p>
+      <h2 id="reading-heading">Essential reading</h2>
+    </div>
+    <p>Not a comprehensive bibliography—just papers worth returning to, with a short note on why each one matters.</p>
+  </div>
+  <div class="project-grid">
+    {% for item in resources.reading %}
+      <article class="project-card">
+        <p class="project-role">{{ item.theme }} · {{ item.year }}</p>
+        <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+        <p class="project-collaboration">{{ item.authors }}</p>
+        <p>{{ item.note }}</p>
+        <p class="project-collaboration">{{ item.publication }}{% if item.doi %}. DOI: {{ item.doi }}{% endif %}.</p>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="closing shell">
+  <p class="eyebrow">A growing collection</p>
+  <h2>Useful, annotated, and intentionally selective.</h2>
+  <p>I will continue adding research papers, engineering tools, datasets, and practical references. The aim is to explain why something is useful—not to create another unfiltered link directory.</p>
+</section>

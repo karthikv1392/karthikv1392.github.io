@@ -802,7 +802,8 @@ h3 {
   border-top: 0.35rem solid var(--sun);
 }
 
-.project-card h2 {
+.project-card h2,
+.project-card h3 {
   font-size: clamp(1.8rem, 4vw, 2.8rem);
 }
 
@@ -862,6 +863,7 @@ h3 {
 }
 
 .media-list h2,
+.media-list h3,
 .news-list h2 {
   max-width: 52rem;
   margin-bottom: 0.6rem;

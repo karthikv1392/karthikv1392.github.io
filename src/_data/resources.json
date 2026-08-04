@@ -1,0 +1,82 @@
+{
+  "writing": [
+    {
+      "year": "2026",
+      "title": "From Enterprise Backbone to Developer Workbench: Engineering Rigor in the Age of AI",
+      "publication": "IEEE Software, vol. 43, no. 4, pp. 122–126, July–August 2026",
+      "doi": "10.1109/MS.2026.3683181",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/MS.2026.3683181",
+      "summary": "A panel discussion on maintaining engineering rigor as AI changes how software is designed and developed.",
+      "keywords": ["Artificial intelligence", "Software engineering", "Modeling", "Data centers"]
+    },
+    {
+      "year": "2026",
+      "title": "Architecture in Practice: Scale, Latency, Decisions, and Change: A Multi-Episode SE Radio Digest",
+      "publication": "IEEE Software, vol. 43, no. 3, pp. 111–116, May–June 2026",
+      "doi": "10.1109/MS.2026.3662845",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/MS.2026.3662845",
+      "summary": "A digest connecting SE Radio conversations about scale, latency, architectural decisions, and evolving systems.",
+      "keywords": ["Software architecture", "System design", "Design decisions", "Scale and latency"]
+    },
+    {
+      "year": "2026",
+      "title": "The Agentic Shift: A Four-Episode Journey into Tool-Using LLMs, Secure Context, and AI-Driven Engineering",
+      "publication": "IEEE Software, vol. 43, no. 2, pp. 144–148, March–April 2026",
+      "doi": "10.1109/MS.2025.3646009",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/MS.2025.3646009",
+      "summary": "A four-episode journey through tool-using language models, secure context, reliability, and AI-driven engineering practice.",
+      "keywords": ["Large language models", "AI agents", "Security", "Software reliability"]
+    },
+    {
+      "year": "2026",
+      "title": "From AI Assistants to Secure by Design: A Multi-Episode SE Radio Digest",
+      "publication": "IEEE Software, vol. 43, no. 1, pp. 139–143, January–February 2026",
+      "doi": "10.1109/MS.2025.3621022",
+      "url": "https://doi.ieeecomputersociety.org/10.1109/MS.2025.3621022",
+      "summary": "A multi-episode digest tracing the path from AI coding assistance to systems designed with security in mind.",
+      "keywords": ["Artificial intelligence", "Computer security", "Software engineering"]
+    }
+  ],
+  "reading": [
+    {
+      "year": "1992",
+      "title": "Foundations for the Study of Software Architecture",
+      "authors": "Dewayne E. Perry and Alexander L. Wolf",
+      "publication": "ACM SIGSOFT Software Engineering Notes, vol. 17, no. 4, pp. 40–52",
+      "url": "https://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf",
+      "doi": "10.1145/141874.141884",
+      "theme": "Software architecture",
+      "note": "A foundational articulation of software architecture as a discipline and a useful starting point for understanding architectural elements, form, and rationale."
+    },
+    {
+      "year": "2003",
+      "title": "The Vision of Autonomic Computing",
+      "authors": "Jeffrey O. Kephart and David M. Chess",
+      "publication": "Computer, vol. 36, no. 1, pp. 41–50",
+      "url": "https://doi.org/10.1109/MC.2003.1160055",
+      "doi": "10.1109/MC.2003.1160055",
+      "theme": "Self-adaptive systems",
+      "note": "A seminal vision for computing systems that manage themselves in response to complexity, uncertainty, and changing operating conditions."
+    },
+    {
+      "year": "2021",
+      "title": "Software Architecture for ML-based Systems: What Exists and What Lies Ahead",
+      "authors": "Henry Muccini and Karthik Vaidhyanathan",
+      "publication": "2021 IEEE/ACM 1st Workshop on AI Engineering – Software Engineering for AI, pp. 121–128",
+      "url": "https://doi.org/10.1109/WAIN52551.2021.00026",
+      "doi": "10.1109/WAIN52551.2021.00026",
+      "theme": "Architecture for AI",
+      "note": "A map of architectural practices for ML-based systems and the open questions that connect software architecture with AI engineering."
+    },
+    {
+      "year": "2015",
+      "title": "Sustainability Design and Software: The Karlskrona Manifesto",
+      "authors": "Christoph Becker and colleagues",
+      "publication": "Proceedings of the 37th International Conference on Software Engineering",
+      "url": "https://www.cs.toronto.edu/~sme/papers/2015/Beckeretal-ICSE2015.pdf",
+      "doi": "",
+      "theme": "Sustainable software",
+      "note": "A concise set of principles for treating sustainability as a systemic software-design concern across technical, environmental, economic, individual, and social dimensions."
+    }
+  ]
+}

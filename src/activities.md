@@ -8,6 +8,10 @@ _"Science is a collaborative effort"_  - John Bardeen
 
 I have been involved as a co-chair/organizing committee member/program committee member/reviewer/student volunteer/organizer of various high impact conferences, workshops, journals and many other events.
 
+## Editorial and community roles
+
+- Member of the **Software Engineering Radio team**, contributing multi-episode digest articles to **IEEE Software**. See my [IEEE Software writing and field notes](/resources/#ieee-software-writing).
+
 
 __2027__
   1. Proceedings Co-Chair, [49th ACM/IEEE International Conference on Software Engineering (ICSE) 2027](https://conf.researchr.org/home/icse-2027)
