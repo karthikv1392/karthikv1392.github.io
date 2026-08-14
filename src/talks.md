@@ -8,13 +8,15 @@ permalink: /talks/
 
 ## 2026
 
-- **Invited Talk at ESSS Bangalore**<br>
+- **When Agentic AI Enters Safety-Critical Systems: Engineering Autonomy Under Uncertainty**<br>
   _Invited Talk, ESSS, Bengaluru, India_<br>
-  August 13, 2026
+  August 13, 2026<br>
+  [Event website](https://www.embedded-safety-security.com/)
 
 - **When Agentic AI Enters Safety-Critical Systems: Engineering Autonomy Under Uncertainty**<br>
   _Invited Talk, ESSS, Hyderabad, India_<br>
-  August 11, 2026
+  August 11, 2026<br>
+  [Event website](https://www.embedded-safety-security.com/)
 
 - **Innovation, Collaboration and Dependability**<br>
   _Panel Member, ESSS, Hyderabad, India_<br>
