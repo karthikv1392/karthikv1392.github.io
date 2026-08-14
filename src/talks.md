@@ -6,7 +6,84 @@ permalink: /talks/
 ---
 ## Recent Talks
 
+## 2026
+
+- **Invited Talk at ESSS Bangalore**<br>
+  _Invited Talk, ESSS, Bengaluru, India_<br>
+  August 13, 2026
+
+- **When Agentic AI Enters Safety-Critical Systems: Engineering Autonomy Under Uncertainty**<br>
+  _Invited Talk, ESSS, Hyderabad, India_<br>
+  August 11, 2026
+
+- **Innovation, Collaboration and Dependability**<br>
+  _Panel Member, ESSS, Hyderabad, India_<br>
+  August 11, 2026
+
+- **Agent Assessment Framework: Evaluating Agentic AI Systems Beyond Task Completion**<br>
+  _Practice Spotlight, Infosys Industry Day Workshop, SERI 2026, IIIT Hyderabad_<br>
+  July 18, 2026<br>
+  [Workshop programme](https://conf.researchr.org/info/seri-2026/industry-day-workshop)
+
+- **Hands-on Agentic AI**<br>
+  _Talk and Tutorial, Generative AI Summer School, Rome, Italy_<br>
+  June 25, 2026
+
+- **Software Architecture Meets Agentic AI**<br>
+  _Tutorial with Henry Muccini, IEEE International Conference on Software Architecture (ICSA) 2026, Amsterdam, The Netherlands_<br>
+  June 23, 2026<br>
+  [Conference programme](https://conf.researchr.org/program/icsa-2026/program-icsa-2026/)
+
+- **Agentic AI and Its Potential for Radiology Workflows**<br>
+  _Invited Talk, AI in Healthcare 2.0 Conference, Yashoda Hospitals, Hyderabad, India_<br>
+  June 18, 2026
+
+- **Engineering Agentic AI**<br>
+  _Creating Venture Labs programme, in collaboration with CIE, IIIT Hyderabad_<br>
+  June 2–18, 2026
+
+- **Agentic Coding**<br>
+  _DFL Webinar, Online_<br>
+  June 13, 2026
+
+- **Engineering Agentic AI: From Concepts to Practice**<br>
+  _DFL Webinar, Online_<br>
+  June 9, 2026
+
+- **Agentic AI**<br>
+  _Faculty Development Programme, GITAM University_<br>
+  June 1–6, 2026
+
+- **Research and Practice at the Intersection of AI and Software Engineering**<br>
+  _Invited Talk, HSBC_<br>
+  March 30, 2026
+
+- **Vibe Coding: What Is the “Vibe” Really?**<br>
+  _Talk, TechForward Seminar Series, IIIT Hyderabad_<br>
+  March 30, 2026
+
+- **Autonomous IoT Systems: Digital Twins Meet Self-Adaptation**<br>
+  _Invited Talk, Workshop on IoT and Autonomous Systems, Hyderabad, India_<br>
+  March 20, 2026
+
+- **When Control Shifts: Software Architecture in the Age of Agentic AI**<br>
+  _Keynote, Generative AI for Software Engineering Workshop, ISEC 2026, Jaipur, India_<br>
+  February 19, 2026
+
+- **Engineering Sustainable AI-Enabled Systems**<br>
+  _Faculty Development Programme, NITK_<br>
+  February 17, 2026
+
+- **Digital Architecture in the Age of GenAI**<br>
+  _Tutorial with Henry Muccini, Vrije Universiteit Amsterdam, Amsterdam, The Netherlands_<br>
+  January 28, 2026<br>
+  [Tutorial website](https://genai-da.vercel.app/)
+
 ## 2025
+
+- **Introduction to Agentic AI**<br>
+  _Session, ML4Science Winter School, IIIT Hyderabad, Hyderabad, India_<br>
+  December 20, 2025
 
 - **Uber GenAI Meetup 2025**
   _Panelist, on Adopting the Fast Emerging Tech, Uber GenAI Meetup 2025, Uber, Hyderabad_
