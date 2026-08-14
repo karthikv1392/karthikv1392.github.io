@@ -1,5 +1,5 @@
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
   --paper: #f4f0e8;
   --paper-raised: #fffdf8;
   --ink: #17201c;
@@ -1139,35 +1139,6 @@ h3 {
   body {
     background: #fff;
     color: #000;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --paper: #14211c;
-    --paper-raised: #1a2a23;
-    --ink: #edf1e9;
-    --muted: #b6c2ba;
-    --line: #405048;
-    --forest: #83c7a9;
-    --forest-dark: #6daf92;
-    --mint: #203a30;
-    --sun: #e4bd63;
-    --coral: #e78269;
-  }
-
-  .brand-mark,
-  .band {
-    background: #285f49;
-  }
-
-  .button-primary {
-    background: #83c7a9;
-    color: #102019;
-  }
-
-  .portrait-panel {
-    background: #285f49;
   }
 }
 
