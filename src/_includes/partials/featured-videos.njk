@@ -5,19 +5,19 @@
     <p>Selected recordings hosted on YouTube. Thumbnails are served locally; YouTube loads only when you choose to watch.</p>
   </header>
   <div class="video-grid">
-    {% for video in talkVideos %}
-      <article class="video-card">
-        <a class="video-thumbnail" href="{{ video.url }}" aria-label="Watch {{ video.title }} on YouTube">
-          <img src="{{ video.thumbnail }}" width="480" height="360" alt="{{ video.thumbnailAlt }}" loading="lazy" decoding="async">
-          <span aria-hidden="true">Watch video&nbsp; →</span>
-        </a>
-        <div class="video-card-copy">
-          <p class="video-meta">{{ video.date }} · {{ video.duration }}</p>
-          <h3><a href="{{ video.url }}">{{ video.title }}</a></h3>
-          <p>{{ video.event }}</p>
-          <p class="video-channel">Published by {{ video.channel }}</p>
-        </div>
-      </article>
-    {% endfor %}
+{% for video in talkVideos %}
+<article class="video-card">
+  <a class="video-thumbnail" href="{{ video.url }}" aria-label="Watch {{ video.title }} on YouTube">
+    <img src="{{ video.thumbnail }}" width="480" height="360" alt="{{ video.thumbnailAlt }}" loading="lazy" decoding="async">
+    <span aria-hidden="true">Watch video&nbsp; →</span>
+  </a>
+  <div class="video-card-copy">
+    <p class="video-meta">{{ video.date }} · {{ video.duration }}</p>
+    <h3><a href="{{ video.url }}">{{ video.title }}</a></h3>
+    <p>{{ video.event }}</p>
+    <p class="video-channel">Published by {{ video.channel }}</p>
+  </div>
+</article>
+{% endfor %}
   </div>
 </section>
