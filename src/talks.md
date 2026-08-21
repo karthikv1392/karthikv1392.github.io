@@ -4,6 +4,8 @@ title: "Talks Archive"
 description: "An archive of invited talks, tutorials, panels, keynotes, and lectures."
 permalink: /talks/
 ---
+{% include "partials/featured-videos.njk" %}
+
 ## Recent Talks
 
 ## 2026

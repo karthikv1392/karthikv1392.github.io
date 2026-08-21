@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Dr Karthik Vaidhyanathan – Day 1 at PSGCT",
+    "event": "AI Consortium, PSG College of Technology",
+    "date": "August 2026",
+    "duration": "30:51",
+    "channel": "AI Consortium – PSGCT",
+    "url": "https://youtu.be/x_7X4-ki5sA",
+    "thumbnail": "/assets/images/talk-psgct.webp",
+    "thumbnailAlt": "Karthik Vaidhyanathan speaking at PSG College of Technology"
+  },
+  {
+    "title": "Agentic AI and Its Potential for Radiology Workflows",
+    "event": "AI in Healthcare 2.0, Yashoda Hospitals",
+    "date": "June 2026",
+    "duration": "22:01",
+    "channel": "Dr Chinnababu Sunkavalli",
+    "url": "https://youtu.be/k-7J7d9n93s",
+    "thumbnail": "/assets/images/talk-radiology.webp",
+    "thumbnailAlt": "A slide from Karthik Vaidhyanathan's presentation about agentic AI in radiology"
+  },
+  {
+    "title": "SWEnergy: Energy Efficiency in Agentic Issue Resolution Frameworks with SLMs",
+    "event": "International Workshop on Agentic Engineering, AGENT 2026",
+    "date": "April 2026",
+    "duration": "6:24",
+    "channel": "aiware",
+    "url": "https://youtu.be/V679oIYZpXE",
+    "thumbnail": "/assets/images/talk-swenergy.webp",
+    "thumbnailAlt": "Presentation slide for the SWEnergy research study"
+  },
+  {
+    "title": "Software Architecture for Sustainability",
+    "event": "Environment Variables Podcast, Episode 122",
+    "date": "October 2025",
+    "duration": "44:25",
+    "channel": "Green Software Foundation",
+    "url": "https://youtu.be/gNUkxqf9A0c",
+    "thumbnail": "/assets/images/talk-sustainability-podcast.webp",
+    "thumbnailAlt": "Environment Variables podcast artwork featuring Karthik Vaidhyanathan"
+  },
+  {
+    "title": "Engineering Agentic AI – From Concepts to Practice",
+    "event": "NASSCOM Tech Developer Confluence 2025",
+    "date": "August 2025",
+    "duration": "34:31",
+    "channel": "nasscom deeptech",
+    "url": "https://www.youtube.com/watch?v=80RVngYZkY4&t=4s",
+    "thumbnail": "/assets/images/talk-agentic-ai.webp",
+    "thumbnailAlt": "Karthik Vaidhyanathan presenting a slide about tool-augmented AI agents"
+  },
+  {
+    "title": "Self-Adaptation Meets Edge AI: Model Balancer in Action",
+    "event": "TechFusion 2024, Middlesex University",
+    "date": "September 2024",
+    "duration": "40:03",
+    "channel": "London Digital Twin Research Centre",
+    "url": "https://youtu.be/BzjdoUtOWgU",
+    "thumbnail": "/assets/images/talk-edge-ai.webp",
+    "thumbnailAlt": "Karthik Vaidhyanathan presenting at Middlesex University"
+  },
+  {
+    "title": "A Machine Learning Approach to Service Discovery for Microservice Architectures",
+    "event": "European Conference on Software Architecture 2021",
+    "date": "September 2021",
+    "duration": "14:26",
+    "channel": "European Conference on Software Architecture 2021",
+    "url": "https://youtu.be/qbu1gy0gcSM",
+    "thumbnail": "/assets/images/talk-service-discovery.webp",
+    "thumbnailAlt": "Title slide for a presentation on machine-learning-driven service discovery"
+  }
+]
