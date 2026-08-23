@@ -4,11 +4,16 @@ title: "Talks Archive"
 description: "An archive of invited talks, tutorials, panels, keynotes, and lectures."
 permalink: /talks/
 ---
-{% include "partials/featured-videos.njk" %}
+<nav class="section-nav" aria-label="Talks page sections">
+  <span>On this page</span>
+  <a href="#recent-talks">Recent talks</a>
+  <a href="#featured-videos-heading">Watch videos</a>
+  <a href="#previous-talks">Previous talks</a>
+</nav>
 
 ## Recent Talks
 
-## 2026
+### 2026
 
 - **Trust the Agent?**<br>
   _Panel Member, NASSCOM FinAI Confluence, Hyderabad, India_<br>
@@ -87,7 +92,11 @@ permalink: /talks/
   January 28, 2026<br>
   [Tutorial website](https://genai-da.vercel.app/)
 
-## 2025
+{% include "partials/featured-videos.njk" %}
+
+## Previous Talks
+
+### 2025
 
 - **Introduction to Agentic AI**<br>
   _Session, ML4Science Winter School, IIIT Hyderabad, Hyderabad, India_<br>
@@ -168,7 +177,7 @@ permalink: /talks/
   _Invited Talk at Plume, Hyderabad, India_  
   January 2025
 
-## 2024
+### 2024
 
 - **Tutorial: Engineering Digital Twins for Intelligent Transport Systems**  
   _18th IEEE International Conference on Vehicular Electronics and Safety (ICVES 2024)_  
@@ -219,7 +228,7 @@ permalink: /talks/
   _HSBC Internal Event_  
   May 2024
 
-## 2023
+### 2023
 
 - **Designing Microservices**  
   _Software Development Course, University of Southern Denmark_  
@@ -241,13 +250,13 @@ permalink: /talks/
   _D3S Seminar, Faculty of Mathematics and Physics, Charles University_  
   April 2023, Czech Republic
 
-## 2022
+### 2022
 
 - **Microservices: From Theory to Practice**  
   _Service Oriented Software Engineering Course, University of L'Aquila_  
   May 2022, Italy
 
-## 2021
+### 2021
 
 - **Microservices for App development**  
   _Mobile Software Development Course, University of Southern Denmark_  
