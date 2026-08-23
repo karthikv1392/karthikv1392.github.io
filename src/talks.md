@@ -10,6 +10,10 @@ permalink: /talks/
 
 ## 2026
 
+- **Trust the Agent?**<br>
+  _Panel Member, NASSCOM FinAI Confluence, Hyderabad, India_<br>
+  August 18, 2026
+
 - **When Agentic AI Enters Safety-Critical Systems: Engineering Autonomy Under Uncertainty**<br>
   _Invited Talk, ESSS, Bengaluru, India_<br>
   August 13, 2026<br>
