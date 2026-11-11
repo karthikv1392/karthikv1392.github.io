@@ -530,6 +530,14 @@ h3 {
   color: var(--ink);
 }
 
+.program-feature {
+  margin-top: clamp(3rem, 6vw, 5rem);
+}
+
+.program-meta {
+  color: #d6e7de;
+}
+
 .page-hero {
   padding-block: clamp(5rem, 12vw, 10rem);
 }
