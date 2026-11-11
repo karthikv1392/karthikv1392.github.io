@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "npm run publications:sync && eleventy --serve",
     "build": "npm run publications:sync && eleventy",
+    "build:university": "node scripts/build-university-site.js",
     "check:budget": "node scripts/check-budget.js",
     "check:accessibility": "node scripts/check-accessibility.js",
     "check:links": "node scripts/check-links.js",

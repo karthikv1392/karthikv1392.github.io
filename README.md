@@ -39,3 +39,5 @@ npm run report:carbon
 ## Deployment
 
 GitHub Pages deploys through `.github/workflows/deploy.yml`. Netlify can use the included `netlify.toml`. Both build with `npm run build` and publish `_site`.
+
+The university mirror deploys through `.github/workflows/deploy-university.yml` after every push to `master`. It rewrites internal paths for the `/~kv/` proxy and publishes `_site-university` to the IIIT Hyderabad `public_html` directory. The repository must define the Actions secret `IIIT_SSH_PRIVATE_KEY` containing the dedicated deployment private key.

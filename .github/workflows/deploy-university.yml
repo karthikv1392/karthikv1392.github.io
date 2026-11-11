@@ -1,0 +1,59 @@
+name: Deploy Eleventy site to IIIT Hyderabad
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: university-site
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build site
+        run: npm run build
+
+      - name: Validate site
+        run: |
+          npm run check:budget
+          npm run check:links
+          npm run check:accessibility
+
+      - name: Prepare university proxy build
+        run: npm run build:university
+
+      - name: Configure university SSH key
+        env:
+          IIIT_SSH_PRIVATE_KEY: ${{ secrets.IIIT_SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          chmod 700 ~/.ssh
+          printf '%s\n' "$IIIT_SSH_PRIVATE_KEY" > ~/.ssh/iiit_site_deploy
+          chmod 600 ~/.ssh/iiit_site_deploy
+          cp .github/iiit_known_hosts ~/.ssh/known_hosts
+          chmod 644 ~/.ssh/known_hosts
+
+      - name: Deploy static site
+        run: |
+          rsync -az --itemize-changes \
+            -e "ssh -i ~/.ssh/iiit_site_deploy -o IdentitiesOnly=yes -o BatchMode=yes" \
+            _site-university/ \
+            karthik.vaidhyanathan@faculty.iiit.ac.in:/home/karthik.vaidhyanathan/public_html/
