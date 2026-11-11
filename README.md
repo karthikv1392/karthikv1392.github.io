@@ -40,4 +40,4 @@ npm run report:carbon
 
 GitHub Pages deploys through `.github/workflows/deploy.yml`. Netlify can use the included `netlify.toml`. Both build with `npm run build` and publish `_site`.
 
-The university mirror deploys through `.github/workflows/deploy-university.yml` after every push to `master`. It rewrites internal paths for the `/~kv/` proxy and publishes `_site-university` to the IIIT Hyderabad `public_html` directory. The repository must define the Actions secret `IIIT_SSH_PRIVATE_KEY` containing the dedicated deployment private key.
+The university mirror is refreshed every ten minutes by a server-side cron job running `scripts/sync-university-from-netlify.sh`. Netlify rebuilds the canonical site after each GitHub push; the cron job mirrors that output, converts links for the `/~kv/` proxy, validates the result, and updates `public_html`. The manual fallback workflow `.github/workflows/deploy-university.yml` builds `_site-university` and requires the Actions secret `IIIT_SSH_PRIVATE_KEY`.
