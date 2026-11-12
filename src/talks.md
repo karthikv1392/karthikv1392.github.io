@@ -15,6 +15,16 @@ permalink: /talks/
 
 ### 2026
 
+- **Engineering Agentic AI: From Lab to Land**<br>
+  _Instructor, SustainAI PhD Summer School, SDU Vejle, University of Southern Denmark_<br>
+  September 14–18, 2026<br>
+  Five days of lectures and hands-on work with around 20 PhD students from different countries.
+
+- **When Adaptation Becomes Agentic: Architecting Autonomy under Uncertainty**<br>
+  _Keynote, CASA@ECSA 2026, Bolzano, Italy_<br>
+  September 8, 2026<br>
+  [Keynote details](https://conf.researchr.org/details/ecsa-2026/casa-2026/3/When-Adaptation-Becomes-Agentic-Architecting-Autonomy-under-Uncertainty) · [Slides](https://www.dropbox.com/scl/fi/95hnd4syfeo6luxk1mey5/Keynote_CASA_Agentic_Adaptation_2026.pdf?rlkey=8duzqrvel3lln8nb24n2zswln&dl=0)
+
 - **Trust the Agent?**<br>
   _Panel Member, NASSCOM FinAI Confluence, Hyderabad, India_<br>
   August 18, 2026

@@ -420,6 +420,7 @@ h3 {
 }
 
 .publication-list,
+.recognition-list,
 .appearance-list,
 .process-list {
   margin: 0;
@@ -427,7 +428,8 @@ h3 {
   list-style: none;
 }
 
-.publication-list li {
+.publication-list li,
+.recognition-list li {
   padding-block: 1.6rem;
   display: grid;
   grid-template-columns: 5rem 1fr;
@@ -435,7 +437,8 @@ h3 {
   border-top: 1px solid var(--line);
 }
 
-.publication-list h3 {
+.publication-list h3,
+.recognition-list h3 {
   max-width: 46rem;
   margin-bottom: 0.45rem;
 }
@@ -448,13 +451,15 @@ h3 {
   line-height: 1.08;
 }
 
-.publication-list p {
+.publication-list p,
+.recognition-list p {
   max-width: 52rem;
   margin-bottom: 0.2rem;
   color: var(--muted);
 }
 
-.publication-year {
+.publication-year,
+.recognition-year {
   color: var(--forest);
   font-weight: 780;
 }
